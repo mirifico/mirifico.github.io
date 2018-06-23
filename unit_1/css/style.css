@@ -2,6 +2,7 @@ body {
 	background-color: #f3f9f6;
 	font-family: Calibri;
 	font-size: 18px;
+	font-kerning: normal;
 }
 
 h1, p {
