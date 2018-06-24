@@ -35,17 +35,11 @@ p {
     clear: both;
 }
 
-
-table {
-	border-collapse: collapse;
-}
-
 div {
 	color: #3b5c78;
 	font-size: 16px;
 	padding: 2px;
-	border: 1px solid;
-	border-color: #3b5c78;
+	border: 1px solid #3b5c78;
 	text-align: left;
 }
 
