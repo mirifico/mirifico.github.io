@@ -8,3 +8,7 @@ body {
 h1, p {
 	color: black;
 }
+
+ul {
+  list-style: square url(http://www.example.com/redball.png);
+}
