@@ -3,7 +3,7 @@ body {
 	font-family: Calibri;
 	font-size: 18px;
 	font-kerning: normal;
-	width: 800px;
+	width: 1000px;
 }
 
 h1 {
@@ -15,6 +15,7 @@ h1 {
 p {
 	color: black;
 	line-height: 1.4;
+	width: 600px;
 }
 .column {
     float: left;
@@ -37,7 +38,7 @@ p {
 table {
 	table-layout: auto;
 	border-collapse: collapse;
-	width: 600px;
+	width: 1000px;
 }
 
 table, th, td {
@@ -45,7 +46,7 @@ table, th, td {
 }
 
 th {
-    padding: 4px;
+    padding: 2px;
     text-align: left;
 }
 
