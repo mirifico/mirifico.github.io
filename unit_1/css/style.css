@@ -1,3 +1,14 @@
+
+header.page-header {
+    background: no-repeat left/cover url(https://github.com/mirifico/mirifico.github.io/blob/master/unit_1/images/015-RedCrossCERES-2015-12-15_Reduced.jpg);
+    display: flex;
+    height: auto;
+    min-width: 800px;
+    align-items: left;
+    color: #fff;
+    text-shadow: #000 0 0 0.2em;
+}
+
 body {
 	background-color: #f3f9f6;
 	font-family: Calibri;
