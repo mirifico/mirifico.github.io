@@ -3,7 +3,7 @@ body {
 	font-family: Calibri;
 	font-size: 18px;
 	font-kerning: normal;
-	width: 800px;
+	width: 900px;
 }
 
 h1 {
@@ -15,7 +15,6 @@ h1 {
 p {
 	color: black;
 	line-height: 1.4;
-	width: 600px;
 }
 
 .column {
@@ -48,7 +47,6 @@ div {
 	border: 1px solid;
 	border-color: #3b5c78;
 	text-align: left;
-	width: 600px;
 }
 
 footer {
