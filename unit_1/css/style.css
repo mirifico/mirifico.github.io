@@ -6,11 +6,17 @@ body {
 	width: 500px;
 }
 
+body > * {
+  padding: 10px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+}
+
 h1, p {
 	color: black;
 	line-height: 1.4;
 }
 div {
 	color: #3b5c78;
-	font-size: 22px;
+	font-size: 20px;
 }
