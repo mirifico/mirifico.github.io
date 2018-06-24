@@ -18,7 +18,13 @@ p {
 }
 .column {
     float: left;
-    width: 33.33%;
+    width: 50%;
+}
+.left {
+    width: 25%;
+}
+.right {
+    width: 75%;
 }
 
 /* Clear floats after the columns */
