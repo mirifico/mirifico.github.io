@@ -12,9 +12,16 @@ h1 {
 	width: 600px;
 }
 
+h3, h4 {
+	color: #3b5c78;
+	line-height: 0.9;
+	width: 600px;
+}
+
 p {
 	color: black;
 	line-height: 1.4;
+	width: 600px;
 }
 
 .column {
@@ -27,7 +34,7 @@ p {
     border: 0px solid;
 }
 .right {
-    width: 400px;
+    width: 600px;
     border: 0px solid;
 }
 
