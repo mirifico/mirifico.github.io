@@ -17,6 +17,7 @@ p {
 	line-height: 1.4;
 	width: 600px;
 }
+
 .column {
     float: left;
     width: 100%;
@@ -47,15 +48,15 @@ table, th, td {
 }*/
 
 th {
-    padding: 0px;
+    padding: 2px;
     text-align: left;
 }
 
 div {
 	color: #3b5c78;
 	font-size: 16px;
-	padding: 0px;
-	border: 1px solid;
+	padding: 2px;
+	border: 0px solid;
 	border-color: #3b5c78;
 }
 
