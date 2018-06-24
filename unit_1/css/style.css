@@ -3,7 +3,14 @@ body {
 	font-family: Calibri;
 	font-size: 18px;
 	font-kerning: normal;
+	width: 500px;
+	line-height: 1.4;
 }
+
 h1, p {
 	color: black;
+}
+div {
+	color: #3b5c78;
+	font-size: 22px;
 }
