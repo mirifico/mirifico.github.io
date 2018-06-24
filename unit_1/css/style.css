@@ -20,13 +20,15 @@ p {
 .column {
     float: left;
     width: 900px;
-    border: 0px;
+    border: 0px solid;
 }
 .left {
     width: 240px;
+    border: 0px solid;
 }
 .right {
     width: 400px;
+    border: 0px solid;
 }
 
 /*Clear floats after the columns*/
