@@ -40,14 +40,14 @@ p {
 	table-layout: auto;
 	border-collapse: collapse;
 	width: 1000px;
-}*/
+}
 
 table, th, td {
 	border: 1px solid black;
-}
+}*/
 
 th {
-    padding: 2px;
+    padding: 0px;
     text-align: left;
 }
 
@@ -55,14 +55,14 @@ div {
 	color: #3b5c78;
 	font-size: 16px;
 	padding: 0px;
-	border: 1px solid rgba(0,0,0,0);
+	border: 1px solid;
 	border-color: #3b5c78;
 }
 
 footer {
   padding: 10px;
   font-size: 16px;
-  border: 1px solid rgba(0,0,0,0);
+  border: 1px solid;
   border-color: #3b5c78;
   width: 568px;
 }
