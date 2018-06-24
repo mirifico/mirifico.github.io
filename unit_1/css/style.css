@@ -6,12 +6,6 @@ body {
 	width: 650px;
 }
 
-div > * {
-  padding: 30px;
-  font-size: 18px;
-  border: 2px solid rgba(0,0,0,0.5);
-}
-
 h1 {
 	color: black;
 	line-height: 0.9;
@@ -21,9 +15,16 @@ p {
 	color: black;
 	line-height: 1.4;
 }
+
 div {
 	color: #3b5c78;
 	font-size: 24px;
+}
+
+div > * {
+  padding: 30px;
+  font-size: 18px;
+  border: 2px solid rgba(0,0,0,0.5);
 }
 
 footer {
