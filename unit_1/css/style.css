@@ -20,7 +20,7 @@ p {
 
 .column {
     float: left;
-    width: 100%;
+    width: 800px;
 }
 .left {
     width: 25%;
@@ -37,19 +37,10 @@ p {
 }
 
 
-/*table {
+table {
 	table-layout: auto;
 	border-collapse: collapse;
 	width: 1000px;
-}
-
-table, th, td {
-	border: 1px solid black;
-}*/
-
-th {
-    padding: 2px;
-    text-align: left;
 }
 
 div {
@@ -58,6 +49,7 @@ div {
 	padding: 2px;
 	border: 0px solid;
 	border-color: #3b5c78;
+	text-align: left;
 }
 
 footer {
