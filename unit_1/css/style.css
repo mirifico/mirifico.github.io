@@ -38,16 +38,14 @@ p {
 
 
 table {
-	table-layout: auto;
 	border-collapse: collapse;
-	width: 1000px;
 }
 
 div {
 	color: #3b5c78;
 	font-size: 16px;
 	padding: 2px;
-	border: 0px solid;
+	border: 1px solid;
 	border-color: #3b5c78;
 	text-align: left;
 }
