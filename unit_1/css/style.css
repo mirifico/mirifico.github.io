@@ -22,10 +22,10 @@ p {
     float: left;
     width: 800px;
 }
-column-left {
+.left {
     width: 25%;
 }
-column-right {
+.right {
     width: 75%;
 }
 
@@ -48,6 +48,7 @@ div {
 	border: 1px solid;
 	border-color: #3b5c78;
 	text-align: left;
+	width: 600px;
 }
 
 footer {
