@@ -6,7 +6,7 @@ body {
 	width: 500px;
 }
 
-body > * {
+div > * {
   padding: 20px;
   font-size: 20px;
   border: 3px solid rgba(0,0,0,0.5);
@@ -18,5 +18,12 @@ h1, p {
 }
 div {
 	color: #3b5c78;
-	font-size: 20px;
+	font-size: 14px;
+}
+
+footer > * {
+  padding: 20px;
+  font-size: 16px;
+  border: 3px solid rgba(0,0,0,0.5);
+  border-color: #3b5c78;
 }
