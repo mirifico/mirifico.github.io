@@ -18,6 +18,7 @@ p {
 }
 
 table {
+	table-layout: auto
 	width: 600px
 }
 
