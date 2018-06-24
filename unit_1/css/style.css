@@ -3,7 +3,7 @@ body {
 	font-family: Calibri;
 	font-size: 18px;
 	font-kerning: normal;
-	width: 1000px;
+	width: 800px;
 }
 
 div > * {
@@ -27,11 +27,11 @@ div {
 }
 
 footer > * {
-  padding: 20px;
+  padding: 30px;
   font-size: 16px;
   border: 3px solid rgba(0,0,0,0.5);
   border-color: #3b5c78;
-  width: 500px;
+  width: 800px;
 }
 
 
