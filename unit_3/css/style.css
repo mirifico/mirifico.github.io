@@ -18,7 +18,7 @@ html::before {
   min-height: 100vh;
   content: '';
   background-color: var(--color);
-  z-index: 1000;
+  z-index: 10;
   pointer-events: none;
 }
 
@@ -90,6 +90,7 @@ footer {
   border-color: #3b5c78;
   width: 568px;
 }
+
 
 .wrapper {
   display: grid;
