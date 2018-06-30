@@ -1,7 +1,7 @@
 :root {
   --offset: 3rem;
   --max_width: 60rem;
-  --color: rgba(76, 147, 148, 0.6);
+  --color: rgba(76, 147, 148, 0.3);
 }
 
 html {
