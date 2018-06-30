@@ -156,7 +156,7 @@ img {
   grid-gap: 0px;
   grid-auto-rows: minmax(20px, auto);
   width: calc(100% - (2 * var(--offset)));
-  max-width: var(--max_width);
+  max-width: 60rem;
 }
 .one {
   grid-area: 1 / 1 / 12 / 13;
