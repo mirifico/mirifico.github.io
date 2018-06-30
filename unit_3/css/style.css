@@ -22,6 +22,9 @@ html::before {
   pointer-events: none;
 }
 
+* {
+    box-sizing: border-box;
+}
 
 body {
 	background-color: #f3f9f6;
