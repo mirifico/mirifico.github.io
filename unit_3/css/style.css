@@ -1,7 +1,7 @@
 :root {
   --offset: 3rem;
   --max_width: 72rem;
-  --color: rgba(173, 222, 181, 0.25);
+  --color: rgba(76, 147, 148, 0.6);
 }
 
 html {
@@ -27,7 +27,7 @@ html::before {
 }
 
 body {
-	background-color: #f3f9f6;
+	background-color: #4F4794;
 	font-family: Calibri;
 	font-size: 18px;
 	font-kerning: normal;
@@ -102,7 +102,7 @@ img {
     z-index: 1000;
 }
 
-
+/*
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -118,14 +118,22 @@ img {
 
 [class*="col-"] {
     float: left;
-    padding: 15px;
+    padding: 5px;
     border: 1px solid red;
 }
 
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+*/
+
+/*
 .grid-container {
   display: grid;
-  grid-template-columns:  auto auto auto auto auto auto auto auto auto auto auto auto;
-  grid-gap: 2px;
+  grid-template-columns:  repeat(12 1fr);
+  grid-gap: 0px;
   background-color: #4C9394;
   padding: 5px;
   width: calc(100% - (2 * var(--offset)));
@@ -140,9 +148,10 @@ img {
 .item8 {
   grid-area: 2 / 2 / 6 / 6;
 }
+*/
 
 .wrapper {
-  display: grid;
+  display: inline-grid;
   grid-template-columns: repeat(12, 1fr);
   grid-gap: 0px;
   grid-auto-rows: minmax(20px, auto);
@@ -150,8 +159,7 @@ img {
   max-width: var(--max_width);
 }
 .one {
-  grid-column: 1 / 12;
-  grid-row: 1;
+  grid-area: 1 / 1 / 12 / 13;
   background-color: lime;
 }
 .two { 
