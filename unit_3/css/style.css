@@ -150,6 +150,7 @@ img {
 
 
 [class*="box-"] {
+  float: center;
   padding: 5px;
   border: 2px solid #6E9492;
   border-radius: 6px;
