@@ -8,6 +8,7 @@ body {
 	font-family: Calibri;
 	font-size: 16px;
 	font-kerning: normal;
+	white-space: wrap;
 }
 
 h1 {
@@ -19,13 +20,13 @@ h1 {
 h3, h4 {
 	color: black;
 	line-height: 0.9;
-	width: 600px;
+	white-space: wrap;
 }
 
 p {
 	color: black;
 	line-height: 1.4;
-	width: 600px;
+	white-space: wrap;
 }
 
 /*
