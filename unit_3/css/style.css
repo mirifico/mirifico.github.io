@@ -116,7 +116,7 @@ img {
 }
 
 .item3headline {
-  grid-column: 2 / span 4;
+  grid-column: 2 / span 3;
   grid-row: 2 / span 2;
   background-color: #ADDEB5;
 }
