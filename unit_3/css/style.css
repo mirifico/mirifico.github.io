@@ -85,8 +85,7 @@ img {
   grid-gap: 0px;
   background-color: #4C9394;
   padding: 5px;
-  width: calc(100% - (2 * var(--offset)));
-  max-width: var(--max_width);
+
 }
 .grid-container > div {
   background-color: rgba(255, 255, 255, 0.9);
