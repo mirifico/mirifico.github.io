@@ -28,7 +28,7 @@ p {
 	width: 600px;
 }
 
-
+/*
 div {
 	color: black;
 	font-size: 16px;
@@ -36,7 +36,7 @@ div {
 	border: 0px solid #3b5c78;
 	text-align: left;
 	width: 900px;
-}
+}*/
 
 footer {
   padding: 10px;
@@ -81,8 +81,8 @@ img {
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 0px;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-gap: 1px;
   background-color: #4C9394;
   padding: 2px;
 
@@ -107,6 +107,7 @@ img {
   grid-row: 1 / 2;
   background-color: lime;
 }
+/*
 .item2largewhitepad { 
   grid-column: 1 ;
   grid-row: 1 ;
@@ -136,4 +137,4 @@ img {
   grid-column: 11 / 13;
   grid-row: 2 / 7;
   background-color: aqua;
-}
+}*/
