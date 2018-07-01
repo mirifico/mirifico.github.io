@@ -110,10 +110,12 @@ img {
   grid-gap: 0px;
 }
 
-div.a {
-    white-space: wrap; 
-    width: 100px;
-    border: 1px solid #000000;
+.box {
+  background-color: #A174EB;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 16px;
 }
 
 .item1header {
