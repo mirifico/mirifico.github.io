@@ -113,6 +113,7 @@ img {
   grid-column: 1 ;
   grid-row: 1 / span 10;
   background-color: #ADDEB5;
+  color: #ADDEB5;
 }
 
 .item3headline {
@@ -133,13 +134,14 @@ img {
   grid-row: 4 / span 2;
   background-color: #ADDEB5;
 }
-/*
 
 .item6contactNPC {
   grid-column: 7 / 10;
   grid-row: 6 / 7;
   background-color: aqua;
 }
+
+/*
 .item7navpane {
   grid-column: 11 / 13;
   grid-row: 2 / 7;
