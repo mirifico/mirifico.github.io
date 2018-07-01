@@ -159,25 +159,25 @@ img {
 
 .box-a {
   grid-column: 2 / span 2;
-  grid-row: 7 / span 1;
+  grid-row: 7 ;
 }
 
 .box-b {
   grid-column: 4 / span 2;
-  grid-row: 7 / span 1;
+  grid-row: 7 ;
 }
 
 .box-c {
   grid-column: 6 / span 2;
-  grid-row: 7 / span 1;
+  grid-row: 7 ;
 }
 
 .box-d {
   grid-column: 8 / span 2;
-  grid-row: 7 / span 1;
+  grid-row: 7 ;
 }
 
 .box-e {
   grid-column: 10 / span 2;
-  grid-row: 7 / span 1;
+  grid-row: 7 ;
 }
