@@ -149,6 +149,7 @@ div.a {
   grid-column: 7 / span 2;
   grid-row: 5 / span 1;
   white-space: wrap;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item7navpane {
