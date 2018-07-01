@@ -88,21 +88,21 @@ img {
   padding: 10px;
 
 }
+
 .grid-container > div {
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   text-align: left;
   padding: 8px;
   font-size: 16px;
+  background-color: rgba(161, 116, 232, 1);   /*dark bluepurp bckgrnd #A174EB*/
 }
 
 .wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  background-color: #ADDEB5;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   grid-auto-rows: minmax(20px, auto);
   grid-gap: 0px;
 }
-
 
 .item1header {
   grid-column: 2 / span 10;
