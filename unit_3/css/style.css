@@ -142,7 +142,9 @@ img {
   background-color: #AEAADB;
 }
 
-
+section {
+	border: 1px solid black;
+}
 
 .sect1 {
 	background-color: #A174EB;
