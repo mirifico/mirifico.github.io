@@ -156,8 +156,8 @@ img {
 .box {
   background-color: #FF7C7F;
   color: #ffffff;
-  border-radius: 6px;
-  padding: 10px;
+  border-radius: 4px;
+  padding: 3px;
   font-size: 16px;
 }
 
