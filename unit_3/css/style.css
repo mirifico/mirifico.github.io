@@ -146,7 +146,7 @@ img {
 
 .item8topicsbarwrapper {
   grid-column: 2 / span 10;
-  grid-row: 7 / span 1;
+  grid-row: 7 / span 2;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
