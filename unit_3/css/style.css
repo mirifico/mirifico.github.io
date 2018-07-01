@@ -93,6 +93,7 @@ img {
   text-align: left;
   padding: 8px;
   font-size: 16px;
+  white-space: wrap;
 }
 
 .wrapper {
@@ -101,6 +102,12 @@ img {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   grid-auto-rows: minmax(20px, auto);
   grid-gap: 0px;
+}
+
+div.a {
+    white-space: wrap; 
+    width: 100px;
+    border: 1px solid #000000;
 }
 
 .item1header {
@@ -128,6 +135,7 @@ img {
 .item5abouttext {
   grid-column: 7 / span 3;
   grid-row: 4 / span 1;
+
 }
 
 .item6contactNPC {
@@ -138,5 +146,5 @@ img {
 .item7navpane {
   grid-column: 10 / span 2;
   grid-row: 2 / span 5;
-  background-color: #AEAADB;
+  background-color: #FFBCB1;
 }
