@@ -150,17 +150,14 @@ img {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
-.box {
-  background-color: #FF7C7F;
-  color: black;
-  border-radius: 6px;
-  padding: 4px;
-}
 
 [class*="box-"] {
-    float: left;
+    align-content: space-between;
     padding: 5px;
     border: 1px solid red;
+    border-radius: 6px;
+    background-color: #FF7C7F;
+    color: black;
 }
 
 .box-a {
