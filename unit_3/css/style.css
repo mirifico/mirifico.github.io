@@ -146,6 +146,9 @@ img {
 
 .item8topicsbarwrapper {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  display: grid;
+  grid-template-columns: 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3%;
+  grid-template-rows: auto;
 }
 
 
@@ -158,21 +161,21 @@ img {
 }
 
 .box-a {
-  grid-column: auto / span 2;
+  grid-column: 2 / span 2;
 }
 
 .box-b {
-  grid-column: auto / span 2;
+  grid-column: 4 / span 2;
 }
 
 .box-c {
-  grid-column: auto / span 2;
+  grid-column: 6 / span 2;
 }
 
 .box-d {
-  grid-column: auto / span 2;
+  grid-column: 8 / span 2;
 }
 
 .box-e {
-  grid-column: auto / span 2;
+  grid-column: 10 / span 2;
 }
