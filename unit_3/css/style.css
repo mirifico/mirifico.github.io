@@ -152,10 +152,9 @@ img {
 
 .box {
   background-color: #FF7C7F;
-  color: #ffffff;
-  border-radius: 4px;
-  padding: 3px;
-  font-size: 16px;
+  color: black;
+  border-radius: 6px;
+  padding: 4px;
 }
 
 .a {
