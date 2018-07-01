@@ -89,7 +89,7 @@ img {
 
 }
 .grid-container > div {
-  /*background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   text-align: left;
   padding: 8px;
   font-size: 16px;
@@ -98,6 +98,7 @@ img {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  background-color: #ADDEB5;
 }
 
 /*
@@ -111,7 +112,7 @@ img {
 .item1header {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
-  background-color: #FF7C7F;
+  background-color: #ADDEB5;
 }
 
 .item2leftpagepad { 
@@ -126,7 +127,6 @@ img {
   background-color: #ADDEB5;
 }
 
-
 .item4heroimage {
   grid-column: 2 / span 3;
   grid-row: 4 / span 3;
@@ -136,17 +136,17 @@ img {
 .item5abouttext {
   grid-column: 7 / span 3;
   grid-row: 4 / span 1;
-  background-color: #ADDEB5;
+  background-color: #FF7C7F;
 }
 
 .item6contactNPC {
-  grid-column: 7 / span 2;
+  grid-column: 7 / span 3;
   grid-row: 5 / span 1;
   background-color: #FF7C7F;
 }
 
 .item7navpane {
-  grid-column: 9 / span 2;
+  grid-column: 10 / span 2;
   grid-row: 2 / span 5;
   background-color: #AEAADB;
 }
