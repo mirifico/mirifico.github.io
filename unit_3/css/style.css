@@ -146,6 +146,8 @@ img {
 
 .item8topicsbarwrapper {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  align-content: space-around;
+  justify-content: space-between;
 }
 
 
