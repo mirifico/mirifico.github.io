@@ -43,7 +43,7 @@ footer {
   padding: 10px;
   font-size: 14px;
   border: 1px solid #AEAADB;
-  background-color: rgba(174, 170, 219, 0.4);   /*dark blue prupr bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.5);   /*dark blue prupr bckgrnd #AEAADB*/
 }
 
 img {
@@ -148,5 +148,5 @@ div.a {
 .item7navpane {
   grid-column: 10 / span 2;
   grid-row: 2 / span 6;
-  background-color: rgba(174, 170, 219, 1);   /*dark blue prupr bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.5);   /*dark blue prupr bckgrnd #AEAADB*/
 }
