@@ -4,9 +4,9 @@
 }
 
 body {
-	background-color: #4F4794;
+	background-color: white;
 	font-family: Calibri;
-	font-size: 18px;
+	font-size: 16px;
 	font-kerning: normal;
 }
 
@@ -17,7 +17,7 @@ h1 {
 }
 
 h3, h4 {
-	color: #3b5c78;
+	color: black;
 	line-height: 0.9;
 	width: 600px;
 }
@@ -42,12 +42,12 @@ footer {
   padding: 10px;
   font-size: 16px;
   border: 0px solid;
-  border-color: #3b5c78;
+  border-color: black;
   width: 568px;
 }
 
 img {
-    width: 100%;
+    width: 80%;
     height: auto;
     z-index: 1000;
 }
@@ -81,7 +81,7 @@ img {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-template-columns: 8.3% auto auto auto auto auto auto auto auto auto auto auto;
   grid-template-rows: 20px
   grid-gap: 0px;
   background-color: #7B9E81;
@@ -89,7 +89,7 @@ img {
 
 }
 .grid-container > div {
-  background-color: rgba(76, 147, 148, 0.2);
+  background-color: rgba(173, 222, 181, 0.9);
   text-align: left;
   padding: 2px 0;
   font-size: 16px;
