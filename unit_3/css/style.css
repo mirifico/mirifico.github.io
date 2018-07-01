@@ -82,9 +82,9 @@ img {
 .grid-container {
   display: grid;
   grid-template-columns: 8.3% auto auto auto auto auto auto auto auto auto auto auto;
-  grid-template-rows: 20px
+  grid-template-rows: 24px
   grid-gap: 0px;
-  background-color: white;
+  background-color: #ADDEB5;
   padding: 10px;
 
 }
@@ -108,12 +108,13 @@ img {
   grid-row: 1 / span 1;
   background-color: #FF7C7F;
 }
-/*
-.item2largewhitepad { 
+
+.item2leftpagepad { 
   grid-column: 1 ;
-  grid-row: 1 ;
-  background-color: white;
+  grid-row: 2 / auto;
+  background-color: #ADDEB5;
 }
+/*
 .item3headline {
   grid-column: 2 / 6;
   grid-row: 2 / 4;
