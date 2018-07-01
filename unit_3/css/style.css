@@ -89,7 +89,7 @@ img {
 
 }
 .grid-container > div {
-  background-color: rgba(110, 148, 146, 0.3);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   text-align: left;
   padding: 8px;
   font-size: 16px;
