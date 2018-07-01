@@ -104,22 +104,24 @@ img {
 }*/
 
 .item1header {
-  grid-column: 1 / span 12;
+  grid-column: 2 / span 11;
   grid-row: 1 / span 1;
   background-color: #FF7C7F;
 }
 
 .item2leftpagepad { 
   grid-column: 1 ;
-  grid-row: 2 / auto;
+  grid-row: 1 / auto;
   background-color: #ADDEB5;
 }
-/*
+
 .item3headline {
-  grid-column: 2 / 6;
-  grid-row: 2 / 4;
-  background-color: blue;
+  grid-column: 2 / span 4;
+  grid-row: 2 / span 2;
+  background-color: #ADDEB5;
 }
+
+/*
 .item4heroimage {
   grid-column: 2/ 6;
   grid-row: 4 / 7;
