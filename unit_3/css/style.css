@@ -145,19 +145,17 @@ img {
 }
 
 .item8topicsbarwrapper {
-  grid-column: 2 / span 10;
-  grid-row: 7 / span 2;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 
 [class*="box-"] {
-    justify-content: space-between;
-    padding: 5px;
-    border: 1px solid #AEAADB;
-    border-radius: 6px;
-    background-color: #AEAADB;     /*dark blue purp bckgrnd #AEAADB*/
-    color: black;
+  justify-content: space-between;
+  padding: 5px;
+  border: 1px solid #AEAADB;
+  border-radius: 6px;
+  background-color: #AEAADB;     /*dark blue purp bckgrnd #AEAADB*/
+  color: black;
 }
 
 .box-a {
