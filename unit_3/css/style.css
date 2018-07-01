@@ -152,11 +152,11 @@ img {
 
 
 [class*="box-"] {
-    align-content: space-between;
+    justify-content: space-between;
     padding: 5px;
-    border: 1px solid red;
+    border: 1px solid #AEAADB;
     border-radius: 6px;
-    background-color: #FF7C7F;
+    background-color: #AEAADB;     /*dark blue purp bckgrnd #AEAADB*/
     color: black;
 }
 
