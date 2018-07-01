@@ -41,7 +41,7 @@ div {
 footer {
   padding: 10px;
   font-size: 16px;
-  border: 0px solid;
+  border: 1px solid;
   border-color: black;
   width: 568px;
 }
@@ -85,13 +85,13 @@ img {
   grid-template-rows: 20px
   grid-gap: 0px;
   background-color: white;
-  padding: 2px;
+  padding: 5px;
 
 }
 .grid-container > div {
   background-color: rgba(110, 148, 146, 1);
   text-align: left;
-  padding: 2px 0;
+  padding: 5px;
   font-size: 16px;
 }
 
