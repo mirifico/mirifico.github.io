@@ -146,8 +146,6 @@ img {
 
 .item8topicsbarwrapper {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  align-content: space-around;
-  justify-content: space-between;
 }
 
 
@@ -161,25 +159,20 @@ img {
 
 .box-a {
   grid-column: auto / span 2;
-  grid-row: 7 ;
 }
 
 .box-b {
   grid-column: auto / span 2;
-  grid-row: 7 ;
 }
 
 .box-c {
   grid-column: auto / span 2;
-  grid-row: 7 ;
 }
 
 .box-d {
   grid-column: auto / span 2;
-  grid-row: 7 ;
 }
 
 .box-e {
   grid-column: auto / span 2;
-  grid-row: 7 ;
 }
