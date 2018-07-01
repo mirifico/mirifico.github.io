@@ -85,13 +85,13 @@ img {
   grid-template-rows: 20px
   grid-gap: 0px;
   background-color: white;
-  padding: 5px;
+  padding: 10px;
 
 }
 .grid-container > div {
-  background-color: rgba(110, 148, 146, 1);
+  background-color: rgba(110, 148, 146, 0.3);   /*dark sage bckgrnd #6E9492*/
   text-align: left;
-  padding: 5px;
+  padding: 8px;
   font-size: 16px;
 }
 
