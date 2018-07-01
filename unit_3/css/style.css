@@ -106,7 +106,7 @@ img {
 .item1header {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
-  background-color: rgba(161, 116, 232, 1);   /*dark bluepurp bckgrnd #A174EB*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item2leftpagepad { 
