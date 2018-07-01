@@ -104,6 +104,7 @@ img {
 
 .wrapper {
   display: grid;
+  justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   grid-auto-rows: minmax(20px, auto);
@@ -111,10 +112,10 @@ img {
 }
 
 .box {
-  background-color: #A174EB;
+  background-color: #FF7C7F;
   color: #ffffff;
   border-radius: 5px;
-  padding: 20px;
+  padding: 10px;
   font-size: 16px;
 }
 
