@@ -145,14 +145,14 @@ img {
 }
 
 .item8topicsbarwrapper {
+  /*justify-content: space-between;*/
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 
 [class*="box-"] {
-  justify-content: space-between;
   padding: 5px;
-  border: 1px solid #AEAADB;
+  border: 2px solid #6E9492;
   border-radius: 6px;
   background-color: #AEAADB;     /*dark blue purp bckgrnd #AEAADB*/
   color: black;
