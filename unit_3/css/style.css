@@ -82,7 +82,7 @@ img {
 .grid-container {
   display: grid;
   grid-template-columns: 8.3% auto auto auto auto auto auto auto auto auto auto auto;
-  grid-template-rows: 24px
+  grid-template-rows: auto;
   grid-gap: 0px;
   background-color: #ADDEB5;
   padding: 10px;
@@ -121,12 +121,14 @@ img {
   background-color: #ADDEB5;
 }
 
-/*
+
 .item4heroimage {
-  grid-column: 2/ 6;
-  grid-row: 4 / 7;
-  background-color: gold;
+  grid-column: 2 / span 3;
+  grid-row: 4 / span 3;
+  background-color: #ADDEB5;
 }
+
+/*
 .item5abouttext {
   grid-column: 7 / 10;
   grid-row: 4 / 6;
