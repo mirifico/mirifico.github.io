@@ -36,9 +36,10 @@ p {
 }
 
 #p-quotetxt.p2 {
-  color: #6E9492;        /*dark sage bckgrnd #6E9492*/ 
+  color: black; 
   line-height: 0.9;
   font-size: 20px;
+  font-style: italic;
   white-space: wrap;
 }
 
