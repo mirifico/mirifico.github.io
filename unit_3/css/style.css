@@ -137,7 +137,7 @@ img {
   grid-column: 7 / span 2;
   grid-row: 4 / span 1;
   white-space: wrap;
-  background-color: rgba(174, 170, 219, 1);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .item6contactNPC {
@@ -154,7 +154,7 @@ img {
 }
 
 .item8topicsbarwrapper {
-  background-color: rgba(0, 0, 0, 1);   /*black bckgrnd #FFF*/
+  background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
