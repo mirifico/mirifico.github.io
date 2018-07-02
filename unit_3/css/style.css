@@ -154,7 +154,7 @@ img {
 }
 
 .item8topicsbarwrapper {
-  background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
+  /*background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
