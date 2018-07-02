@@ -145,7 +145,7 @@ img {
 }
 
 .item8topicsbarwrapper {
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
@@ -157,7 +157,7 @@ img {
   padding: 5px;
   border: 2px solid #6E9492;
   border-radius: 6px;
-  background-color: #AEAADB;     /*dark blue purple bckgrnd #AEAADB*/
+  background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
 }
 
