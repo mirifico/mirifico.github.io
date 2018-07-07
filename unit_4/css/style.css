@@ -23,7 +23,7 @@
 /* center right text */
 .center-right {
     position: absolute;
-    bottom: 1000px;
+    bottom: 600px;
     right: 30px;
     background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
