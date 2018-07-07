@@ -48,12 +48,10 @@
     line-height: 0.9em;
     font-kerning: normal;
     text-align: left;
-    white-space: wrap;
     padding-left: 20px;
     padding-right: 20px;
     max-width: 350px;
-    border: 5px;
-    border-color: rgba(110,148,146,0.9);        /*dark sage   #6E9492*/
+    border: 5px rgba(110,148,146,0.9);        /*dark sage   #6E9492*/
 }
 
 /* Centered text
