@@ -158,6 +158,12 @@ img {
   white-space: wrap;
 }
 
+.item1headerA {
+  padding: 10px;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  font-family: "Quicksand", sans-serif;
+}
+
 .item1header {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
