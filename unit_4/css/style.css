@@ -8,9 +8,10 @@
 
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-	font-family: "Raleway", serif;
-  font-weight: 300;
-	font-size: 1em;
+	font-family: "Cormorant Garamond", serif;
+  font-weight: 100;
+	font-size: 0.8em;
+  line-height: 1.5em;
 	font-kerning: normal;
 	white-space: wrap;
 }
@@ -29,13 +30,17 @@ h2, h3, h4 {
 
 p {
 	color: black;
-	line-height: 1.1em;
-	white-space: wrap;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 100;
+  font-size: 0.8em;
+  line-height: 1.1em;
+  font-kerning: normal;
+  white-space: wrap;
 }
 
 #p-sage.p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
-  line-height: 1.1;
+  line-height: 1.1em;
   white-space: wrap;
 }
 
