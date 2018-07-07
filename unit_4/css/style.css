@@ -37,9 +37,21 @@
     padding-right: 20px
 }
 
-#center-right.lower {
+.center-right-lower {
+    position: absolute;
     bottom: 700px;
-    border: 3px;
+    right: 20px;
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
+    font-family: "Quicksand", sans-serif;
+    font-weight: 200;
+    font-size: 1.5em;
+    line-height: 0.9em;
+    font-kerning: normal;
+    text-align: left;
+    white-space: wrap;
+    padding-left: 20px;
+    padding-right: 20px
+    border: 2px solid #AEAADB;
 }
 
 /* Centered text
