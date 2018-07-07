@@ -23,8 +23,15 @@
 /* center right text */
 .center-right {
     position: absolute;
-    bottom: 200px;
-    right: 16px;
+    bottom: 1000px;
+    right: 30px;
+    background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
+    font-family: "Quicksand", sans-serif;
+    font-weight: 200;
+    font-size: 2em;
+    line-height: 1.5em;
+    font-kerning: normal;
+    white-space: wrap;
 }
 
 /* Centered text
@@ -152,6 +159,7 @@ img {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  font-family: "Quicksand", sans-serif;
 }
 
 .item2leftpagepad { 
