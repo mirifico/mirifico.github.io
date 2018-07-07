@@ -14,16 +14,16 @@
 }
 
 /* Top right text */
-.top-right {
+.top-right-logo {
     position: absolute;
     top: 8px;
-    right: 16px;
+    right: 20px;
 }
 
 /* center right text */
 .center-right {
     position: absolute;
-    bottom: 800px;
+    bottom: 900px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
@@ -35,6 +35,11 @@
     white-space: wrap;
     padding-left: 20px;
     padding-right: 20px
+}
+
+#center-right.lower {
+    bottom: 700px;
+    border: 3px;
 }
 
 /* Centered text
