@@ -23,13 +23,13 @@
 /* center right text */
 .center-right {
     position: absolute;
-    bottom: 600px;
-    right: 30px;
-    background-color: rgba(173,222,181,0.3);    /*--pale sage  #ADDEB5*/ 
+    bottom: 800px;
+    right: 20px;
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
     font-weight: 200;
     font-size: 1.5em;
-    line-height: 1.1em;
+    line-height: 0.9em;
     font-kerning: normal;
     white-space: wrap;
 }
