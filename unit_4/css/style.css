@@ -16,7 +16,7 @@ body {
 
 h1 {
 	color: black;
-	line-height: 1em;
+	line-height: 1.5em;
 	width: 600px;
 }
 
@@ -28,7 +28,7 @@ h2, h3, h4 {
 
 p {
 	color: black;
-	line-height: 1.1;
+	line-height: 1.1em;
 	white-space: wrap;
 }
 
@@ -40,8 +40,8 @@ p {
 
 #p-quotetxt.p2 {
   color: black; 
-  line-height: 0.9;
-  font-size: 18px;
+  line-height: 0.9em;
+  font-size: 2em;
   font-style: italic;
   white-space: wrap;
 }
