@@ -8,15 +8,15 @@
 
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-	font-family: Calibri;
-	font-size: 16px;
+	font-family: Raleway:100;
+	font-size: 1em;
 	font-kerning: normal;
 	white-space: wrap;
 }
 
 h1 {
 	color: black;
-	line-height: 0.9;
+	line-height: 1em;
 	width: 600px;
 }
 
