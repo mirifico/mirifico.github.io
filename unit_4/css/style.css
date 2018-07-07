@@ -25,11 +25,11 @@
     position: absolute;
     bottom: 600px;
     right: 30px;
-    background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
+    background-color: rgba(173,222,181,0.3);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
     font-weight: 200;
-    font-size: 2em;
-    line-height: 1.5em;
+    font-size: 1.5em;
+    line-height: 1.1em;
     font-kerning: normal;
     white-space: wrap;
 }
