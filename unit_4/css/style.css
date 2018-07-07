@@ -13,12 +13,12 @@
     color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 }
 
-/* Top right text */
+/* Top right text 
 .top-right-logo {
     position: absolute;
     top: 8px;
     right: 20px;
-}
+}*/
 
 /* center right text */
 .center-right {
@@ -47,11 +47,11 @@
     font-size: 1.5em;
     line-height: 0.9em;
     font-kerning: normal;
-    text-align: left;
+    text-align: right;
     white-space: wrap;
     padding-left: 20px;
     padding-right: 20px;
-    border: 2px solid #AEAADB;
+    border: 5px solid #6E9492;        /*dark sage   #6E9492*/
 }
 
 /* Centered text
