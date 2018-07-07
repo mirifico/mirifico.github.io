@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand:300|Raleway+Light:300');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand:300|Raleway:300');
 
 * {
   padding: zero;
@@ -8,7 +8,7 @@
 
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-	font-family: "Raleway+Light";
+	font-family: "Raleway", serif;
   font-weight: 300;
 	font-size: 1em;
 	font-kerning: normal;
