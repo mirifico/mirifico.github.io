@@ -28,14 +28,14 @@
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
     font-weight: 200;
-    font-size: 1.8em;
+    font-size: 1.7em;
     line-height: 0.7em;
     font-kerning: normal;
     text-align: left;
     white-space: wrap;
     padding-left: 20px;
     padding-right: 20px;
-    max-width: 1070px;
+    max-width: 1170px;
 }
 
 .center-right-lower {
