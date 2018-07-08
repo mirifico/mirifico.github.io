@@ -49,6 +49,7 @@ a:link {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    color: black;
 }
 
 /* visited link */
@@ -58,6 +59,7 @@ a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    color: grey;
 }
 
 /* cursor over link */
@@ -120,15 +122,9 @@ p {
   line-height: 1.2em;
 }
 
-/*
-div {
-	color: black;
-	font-size: 16px;
-	padding: 2px;
-	border: 0px solid #3b5c78;
-	text-align: left;
-	width: 900px;
-}*/
+ul,li {
+  list-style-type: none;
+}
 
 footer {
   padding: 10px;
