@@ -38,6 +38,17 @@
     max-width: 1170px;
 }
 
+a:link, a:visited {     /*--link = unvisited link */
+    color: #6E9492;     /*--dark sage  #6E9492*/ 
+    text-decoration: none;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active {     
+    color: #A174EB;        /*--dark blue purple  #A174EB*/ 
+    text-decoration: none;
+}
+
 .center-right-lower {
     position: absolute;
     bottom: 878px;
