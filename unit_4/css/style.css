@@ -16,7 +16,7 @@
 /* top right text */
 .top-right {
     position: absolute;
-    bottom: 800px;
+    bottom: 795px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
@@ -44,11 +44,11 @@ a:link:active, a:visited:active {
 
 .top-right-lower {
     position: absolute;
-    top: 150px;
+    top: 100px;
     right: 40px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
-    font-weight: 600;
+    font-weight: 200;
     font-size: 0.9em;
     line-height: 0.7em;
     font-kerning: normal;
