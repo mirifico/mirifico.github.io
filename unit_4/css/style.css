@@ -35,6 +35,7 @@
     white-space: wrap;
     padding-left: 20px;
     padding-right: 20px;
+    max-width: 450px;
 }
 
 .center-right-lower {
@@ -50,7 +51,7 @@
     text-align: left;
     padding-left: 20px;
     padding-right: 20px;
-    max-width: 180px;
+    max-width: 150px;
     border: 5px solid #6E9492;        /*dark sage   #6E9492*/
 }
 
