@@ -102,10 +102,6 @@ h2, h3, h4, h5 {
 	white-space: wrap;
 }
 
-h5.center {
-  text-align: center;
-}
-
 p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
@@ -254,6 +250,13 @@ img {
   border-radius: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 100;
+  font-size: 1.2em;
+  line-height: 0.75em;
+  font-kerning: normal;
+  text-align: left;
+  white-space: wrap;
 }
 
 .box-a {
