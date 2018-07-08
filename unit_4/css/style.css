@@ -39,7 +39,7 @@
 
 .center-right-lower {
     position: absolute;
-    bottom: 860px;
+    bottom: 880px;
     right: 50px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
@@ -50,7 +50,7 @@
     text-align: left;
     padding-left: 20px;
     padding-right: 20px;
-    max-width: 320px;
+    max-width: 220px;
     border: 5px solid #6E9492;        /*dark sage   #6E9492*/
 }
 
@@ -187,6 +187,7 @@ img {
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   font-family: "Quicksand", sans-serif;
+  font-size: 18px;
 }
 
 .item2leftpagepad { 
