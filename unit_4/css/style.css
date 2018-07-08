@@ -43,10 +43,8 @@
 
  /* unvisited link */
 a:link {
-    color: #6E9492;     /*--dark sage  #6E9492*/
     cursor: auto;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    border: 2px solid black;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -55,11 +53,8 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: #A174EB;        /*--dark blue purple  #A174EB*/
     cursor: auto;
     background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
-    border: 2px solid black;
-    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -85,8 +80,8 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 	font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-	font-size: 0.9em;
-  line-height: 1.1em;
+	font-size: 1em;
+  line-height: 1.2em;
 	font-kerning: normal;
 	white-space: wrap;
 }
@@ -101,7 +96,7 @@ h1 {
 h2, h3, h4 {
 	color: black;
   font-family: "Quicksand", sans-serif;
-	line-height: 1.25em;
+	line-height: 1.2em;
 	white-space: wrap;
 }
 
@@ -109,19 +104,20 @@ p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-  font-size: 1.1em;
-  line-height: 1.2em;
+  font-size: 0.9em;
+  line-height: 1em;
   font-kerning: normal;
   white-space: wrap;
 }
 
 #p-sage.p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
-  line-height: 1.1em;
+  line-height: 1em;
 }
 
 #p-quotetxt.p2 {
   font-style: italic;
+  line-height: 1.1em;
 }
 
 /*
@@ -136,7 +132,7 @@ div {
 
 footer {
   padding: 10px;
-  font-size: 14px;
+  font-size: 0.9em;
   border: 1px solid #AEAADB;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
