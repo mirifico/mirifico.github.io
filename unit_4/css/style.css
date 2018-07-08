@@ -32,7 +32,7 @@
 
 .top-right-lower {
     position: absolute;
-    top: 90px;
+    top: 86px;
     right: 4px;
     font-family: "Quicksand", sans-serif;
     font-weight: 100;
@@ -41,6 +41,7 @@
     font-kerning: normal;
     padding: 20px;
     padding-bottom: 10px;
+    max-width: 300px
 }
 
  /* unvisited link */
