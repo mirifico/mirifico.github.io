@@ -34,29 +34,43 @@
  /* unvisited link */
 a:link {
     color: #6E9492;     /*--dark sage  #6E9492*/
-    text-decoration: none;
     cursor: auto;
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
+    border: 2px #6E9492;    /*--dark sage  #6E9492*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 /* visited link */
 a:visited {
     color: #A174EB;        /*--dark blue purple  #A174EB*/
-    text-decoration: none;
     cursor: auto;
+    background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
+    border: 2px #A174EB;    /*--dark blue purple  #A174EB*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
-/* mouse over link */
+/* cursor over link */
 a:hover {
-    color: #ADDEB5*;     /*--pale sage  #ADDEB5*/
+    /*color: #ADDEB5;     /*--pale sage  #ADDEB5*/
     text-decoration: none;
     cursor: auto;
+    background-color: #6E9492;
+    color: white;
 }
 
 /* selected link */
 a:active {
-    color: #A174EB;        /*--dark blue purple  #A174EB*/
+    /*color: #A174EB;        /*--dark blue purple  #A174EB*/
     text-decoration: none;
     cursor: auto;
+    background-color: #6E9492;
+    color: white;
 } 
 
 .top-right-lower {
