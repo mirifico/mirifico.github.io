@@ -50,7 +50,7 @@ a:visited {
     background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
     border: 2px #A174EB;    /*--dark blue purple  #A174EB*/
     padding: 10px 20px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
 }
