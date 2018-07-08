@@ -31,16 +31,33 @@
     padding-bottom: 10px;
 }
 
-a:link, a:visited {     /*--link = unvisited link */
-    color: #6E9492;     /*--dark sage  #6E9492*/ 
+ /* unvisited link */
+a:link {
+    color: #6E9492;     /*--dark sage  #6E9492*/
     text-decoration: none;
     cursor: auto;
 }
 
-a:link:active, a:visited:active {     
-    color: #A174EB;        /*--dark blue purple  #A174EB*/ 
+/* visited link */
+a:visited {
+    color: #A174EB;        /*--dark blue purple  #A174EB*/
     text-decoration: none;
+    cursor: auto;
 }
+
+/* mouse over link */
+a:hover {
+    color: #ADDEB5*;     /*--pale sage  #ADDEB5*/
+    text-decoration: none;
+    cursor: auto;
+}
+
+/* selected link */
+a:active {
+    color: #A174EB;        /*--dark blue purple  #A174EB*/
+    text-decoration: none;
+    cursor: auto;
+} 
 
 .top-right-lower {
     position: absolute;
