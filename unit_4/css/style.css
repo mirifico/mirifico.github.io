@@ -72,7 +72,7 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 	font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-	font-size: 1em;
+	font-size: 0.9em;
   line-height: 1.5em;
 	font-kerning: normal;
 	white-space: wrap;
@@ -81,7 +81,7 @@ body {
 h1 {
 	color: black;
   font-family: "Quicksand", sans-serif;
-	line-height: 1.5em;
+	line-height: 1.25em;
 	width: 550px;
 }
 
@@ -96,7 +96,7 @@ p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-  font-size: 0.7em;
+  font-size: 1em;
   line-height: 1.25em;
   font-kerning: normal;
   white-space: wrap;
