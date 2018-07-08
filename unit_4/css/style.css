@@ -13,17 +13,10 @@
     color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 }
 
-/* Top right text 
-.top-right-logo {
+/* top right text */
+.top-right {
     position: absolute;
-    top: 8px;
-    right: 20px;
-}*/
-
-/* center right text */
-.center-right {
-    position: absolute;
-    bottom: 925px;
+    top: 20px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
@@ -49,9 +42,9 @@ a:link:active, a:visited:active {
     text-decoration: none;
 }
 
-.center-right-lower {
+.top-right-lower {
     position: absolute;
-    bottom: 878px;
+    top: 150px;
     right: 40px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
