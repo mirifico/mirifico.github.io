@@ -39,9 +39,10 @@
     font-size: 0.9em;
     line-height: 0.9em;
     font-kerning: normal;
+    text-align: left;
     padding: 20px;
     padding-bottom: 10px;
-    max-width: 300px
+    max-width: 200px
 }
 
  /* unvisited link */
