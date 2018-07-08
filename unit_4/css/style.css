@@ -81,20 +81,12 @@ a:active {
     color: white;
 }
 
-/* Centered text
-.center {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}*/
-
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 	font-family: "Cormorant Garamond", serif;
   font-weight: 100;
 	font-size: 0.9em;
-  line-height: 1.5em;
+  line-height: 1.1em;
 	font-kerning: normal;
 	white-space: wrap;
 }
@@ -117,8 +109,8 @@ p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-  font-size: 1.25em;
-  line-height: 1.45em;
+  font-size: 1.1em;
+  line-height: 1.2em;
   font-kerning: normal;
   white-space: wrap;
 }
