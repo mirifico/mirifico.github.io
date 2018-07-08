@@ -28,8 +28,8 @@
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
     font-weight: 200;
-    font-size: 1.5em;
-    line-height: 0.9em;
+    font-size: 1.4em;
+    line-height: 0.7em;
     font-kerning: normal;
     text-align: left;
     white-space: wrap;
@@ -44,10 +44,10 @@
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
     font-weight: 300;
-    font-size: 1.5em;
-    line-height: 0.9em;
+    font-size: 1.1em;
+    line-height: 0.7em;
     font-kerning: normal;
-    text-align: left;
+    text-align: center;
     padding-left: 20px;
     padding-right: 20px;
     max-width: 320px;
@@ -171,7 +171,7 @@ img {
 .grid-container > div {
   text-align: left;
   padding: 8px;
-  font-size: 16px;
+  font-size: 18px;
   white-space: wrap;
 }
 
@@ -179,6 +179,7 @@ img {
   padding: 10px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   font-family: "Quicksand", sans-serif;
+  font-size: 18px;
 }
 
 .item1header {
