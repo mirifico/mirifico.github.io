@@ -80,8 +80,8 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
 	font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-	font-size: 1em;
-  line-height: 1.2em;
+	font-size: 0.9em;
+  line-height: 1.1em;
 	font-kerning: normal;
 	white-space: wrap;
 }
@@ -89,7 +89,7 @@ body {
 h1 {
 	color: black;
   font-family: "Quicksand", sans-serif;
-	line-height: 1.25em;
+	line-height: 1.2em;
 	width: 550px;
 }
 
