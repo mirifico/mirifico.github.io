@@ -115,8 +115,8 @@ p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-  font-size: 1em;
-  line-height: 1.25em;
+  font-size: 1.25em;
+  line-height: 1.45em;
   font-kerning: normal;
   white-space: wrap;
 }
@@ -124,15 +124,10 @@ p {
 #p-sage.p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
   line-height: 1.1em;
-  white-space: wrap;
 }
 
 #p-quotetxt.p2 {
-  color: black; 
-  line-height: 0.9em;
-  font-size: 1em;
   font-style: italic;
-  white-space: wrap;
 }
 
 /*
