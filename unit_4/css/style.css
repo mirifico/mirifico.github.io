@@ -23,7 +23,7 @@
 /* center right text */
 .center-right {
     position: absolute;
-    bottom: 930px;
+    bottom: 925px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
@@ -34,7 +34,7 @@
     text-align: left;
     white-space: wrap;
     padding-left: 20px;
-    padding-right: 20px
+    padding-right: 20px;
 }
 
 .center-right-lower {
@@ -50,7 +50,7 @@
     text-align: left;
     padding-left: 20px;
     padding-right: 20px;
-    max-width: 200px;
+    max-width: 180px;
     border: 5px solid #6E9492;        /*dark sage   #6E9492*/
 }
 
