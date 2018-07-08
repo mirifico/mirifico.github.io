@@ -20,8 +20,8 @@
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
-    font-weight: 200;
-    font-size: 1.7em;
+    font-weight: 100;
+    font-size: 1.1em;
     line-height: 0.7em;
     font-kerning: normal;
     text-align: left;
@@ -48,7 +48,7 @@ a:link:active, a:visited:active {
     right: 40px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     font-family: "Quicksand", sans-serif;
-    font-weight: 200;
+    font-weight: 100;
     font-size: 0.9em;
     line-height: 0.7em;
     font-kerning: normal;
