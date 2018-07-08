@@ -102,6 +102,10 @@ h2, h3, h4, h5 {
 	white-space: wrap;
 }
 
+h5.center {
+  text-align: center;
+}
+
 p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
