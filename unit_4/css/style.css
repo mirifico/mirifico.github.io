@@ -31,13 +31,24 @@
     padding-bottom: 10px;
 }
 
+.top-right-lower {
+    position: absolute;
+    top: 90px;
+    right: 20px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 100;
+    font-size: 0.9em;
+    line-height: 0.9em;
+    font-kerning: normal;
+}
+
  /* unvisited link */
 a:link {
     color: #6E9492;     /*--dark sage  #6E9492*/
     cursor: auto;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    border: 2px #6E9492;    /*--dark sage  #6E9492*/
-    padding: 10px 20px;
+    /*border: 2px #6E9492;    /*--dark sage  #6E9492*/
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -48,8 +59,8 @@ a:visited {
     color: #A174EB;        /*--dark blue purple  #A174EB*/
     cursor: auto;
     background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
-    border: 2px #A174EB;    /*--dark blue purple  #A174EB*/
-    padding: 10px 20px;
+    /*border: 2px #A174EB;    /*--dark blue purple  #A174EB*/
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -71,17 +82,6 @@ a:active {
     cursor: auto;
     background-color: #6E9492;
     color: white;
-} 
-
-.top-right-lower {
-    position: absolute;
-    top: 90px;
-    right: 20px;
-    font-family: "Quicksand", sans-serif;
-    font-weight: 100;
-    font-size: 0.9em;
-    line-height: 0.9em;
-    font-kerning: normal;
 }
 
 /* Centered text
