@@ -169,7 +169,7 @@ img {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3%;
+  grid-template-columns: 8.3% 8.3% 8.3% 8.3% 8.3% 5% 8.3% 11.6% 8.3% 5% 11.6% 8.3%;
   grid-template-rows: auto;
   grid-gap: 0px;
   background-color: #ADDEB5;
