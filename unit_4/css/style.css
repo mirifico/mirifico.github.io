@@ -279,7 +279,7 @@ img {
   grid-row: 6;
 }
 
-.bottom-left {
+/*.bottom-left {
     position: absolute;
     bottom: 5px;
     left: 5px;
@@ -288,7 +288,7 @@ img {
     font-size: 0.8em;
     line-height: 0.7em;
     font-kerning: normal;
-}
+}*/
 
 
 .item8topicsbarwrapper {
