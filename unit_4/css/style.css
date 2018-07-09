@@ -253,7 +253,7 @@ img {
   text-align: left;
   white-space: wrap;
 }
-
+ /* Containers holding the image and the text */
 .box-a {
   grid-column: 10 / span 2;
   grid-row: 2;
@@ -278,6 +278,18 @@ img {
   grid-column: 10 / span 2;
   grid-row: 6;
 }
+
+.bottom-left {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 300;
+    font-size: 0.8em;
+    line-height: 0.7em;
+    font-kerning: normal;
+}
+
 
 .item8topicsbarwrapper {
   /*background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
