@@ -298,7 +298,7 @@ img {
 .item8externallinksbarwrapper {
   background-color: rgba(174, 170, 219, 0.6);   /*pale blue-purp bckgrnd #AEAADB*/
   display: grid;
-  grid-gap: 10px;
+  grid-gap: 5px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;
 }
@@ -308,6 +308,7 @@ img {
   border-radius: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
+  text-align: center;
 }
 
 .box2-a {
