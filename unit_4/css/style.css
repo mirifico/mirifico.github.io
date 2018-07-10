@@ -258,6 +258,18 @@ img {
   text-align: left;
   white-space: wrap;
 }
+
+.top-left {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 100;
+    font-size: 0.9em;
+    line-height: 0.75em;
+    font-kerning: normal;
+}
+
  /* Containers holding the image and the text */
 .box-a {
   grid-column: 10 / span 2;
