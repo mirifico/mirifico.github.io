@@ -223,14 +223,14 @@ img {
 
 .item5quotetext {
   grid-column: 7 / span 2;
-  grid-row: 4 / span 1;
+  grid-row: 3 / span 1;
   white-space: wrap;
   background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .item6contactNPC {
   grid-column: 7 / span 2;
-  grid-row: 5 / span 1;
+  grid-row: 4 / span 1;
   white-space: wrap;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
