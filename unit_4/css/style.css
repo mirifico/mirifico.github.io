@@ -237,7 +237,7 @@ img {
 
 .item7navpane {
   grid-column: 10 / span 2;
-  grid-row: 3 / span 4;
+  grid-row: 2 / span 4;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
   font-family: "Quicksand", sans-serif;
   font-size: 0.9em;
@@ -273,27 +273,27 @@ img {
  /* Containers holding the image and the text */
 .box-a {
   grid-column: 10 / span 2;
-  grid-row: 3;
+  grid-row: 2;
 }
 
 .box-b {
   grid-column: 10 / span 2;
-  grid-row: 4;
+  grid-row: 3;
 }
 
 .box-c {
   grid-column: 10 / span 2;
-  grid-row: 5;
+  grid-row: 4;
 }
 
 .box-d {
   grid-column: 10 / span 2;
-  grid-row: 6;
+  grid-row: 5;
 }
 
 .box-e {
   grid-column: 10 / span 2;
-  grid-row: 7;
+  grid-row: 6;
 }
 
 /*.bottom-left {
