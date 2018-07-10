@@ -296,7 +296,6 @@ img {
 .box-d {
   grid-column: 10 / span 2;
   grid-row: 6;
-  color: black;
 }
 
 .box-e {
