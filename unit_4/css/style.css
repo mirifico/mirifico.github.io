@@ -252,17 +252,16 @@ img {
   color: black;
   font-family: "Quicksand", sans-serif;
   font-weight: 100;
-  font-size: 0.9em;
+  font-size: 1em;
   line-height: 0.75em;
   font-kerning: normal;
   text-align: left;
   white-space: wrap;
 }
 
-
 .top-left {
     position: relative;
-    top: 4px;
+    bottom: 4px;
     left: 4px;
     font-family: "Quicksand", sans-serif;
     font-weight: 100;
@@ -295,6 +294,7 @@ img {
 .box-e {
   grid-column: 10 / span 2;
   grid-row: 7;
+}
 
 /*.bottom-left {
     position: absolute;
