@@ -259,8 +259,9 @@ img {
   white-space: wrap;
 }
 
+
 .top-left {
-    position: absolute;
+    position: relative;
     top: 4px;
     left: 4px;
     font-family: "Quicksand", sans-serif;
