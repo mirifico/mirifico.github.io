@@ -212,12 +212,12 @@ img {
 
 .item3headline {
   grid-column: 2 / span 4;
-  grid-row: 3 / span 2;
+  grid-row: 4 / span 2;
 }
 
 .item4heroimage {
   grid-column: 2 / span 4;
-  grid-row: 4 / span 2;
+  grid-row: 5 / span 2;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
