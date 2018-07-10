@@ -239,7 +239,6 @@ img {
   grid-column: 10 / span 2;
   grid-row: 3 / span 4;
   grid-row-gap: 1px;
-  /*background-color: rgba(0, 0, 0, 0);   /* removed color - dark blue purp bckgrnd #AEAADB*/
   font-family: "Quicksand", sans-serif;
   font-size: 0.9em;
   line-height: 0.75em;
@@ -296,20 +295,8 @@ img {
   grid-row: 7;
 }
 
-/*.bottom-left {
-    position: absolute;
-    bottom: 5px;
-    left: 5px;
-    font-family: "Quicksand", sans-serif;
-    font-weight: 300;
-    font-size: 0.8em;
-    line-height: 0.7em;
-    font-kerning: normal;
-}*/
-
-
-.item8topicsbarwrapper {
-  /*background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
+.item8externallinksbarwrapper {
+  background-color: rgba(161, 116, 232, 0.9);   /*dark blue purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
