@@ -199,39 +199,38 @@ img {
   font-family: "Quicksand", sans-serif;
   font-size: 18px;
 }
+.item1aspaceunderheader {
+  grid-column: 2 / span 10;
+  grid-row: 3 / span 1;
+}
 
 .item2leftpagepad { 
   grid-column: 1 ;
-  grid-row: 1 / span 10;
+  grid-row: 1 / span 11;
   background-color: #ADDEB5;
 }
 
 .item3headline {
   grid-column: 2 / span 4;
-  grid-row: 2 / span 2;
-}
-
-.item3aspaceunderheadline {
-  grid-column: 2 / span 10;
-  grid-row: 3 / span 1;
+  grid-row: 3 / span 2;
 }
 
 .item4heroimage {
   grid-column: 2 / span 4;
-  grid-row: 3 / span 2;
+  grid-row: 4 / span 2;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item5quotetext {
   grid-column: 7 / span 2;
-  grid-row: 3 / span 1;
+  grid-row: 4 / span 1;
   white-space: wrap;
   background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .item6contactNPC {
   grid-column: 7 / span 2;
-  grid-row: 4 / span 1;
+  grid-row: 5 / span 1;
   white-space: wrap;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
