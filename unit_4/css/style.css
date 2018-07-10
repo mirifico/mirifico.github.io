@@ -102,6 +102,11 @@ h2, h3, h4, h5 {
 	white-space: wrap;
 }
 
+#h3.colwhite {
+  color: white;
+  font-weight: 200;
+}
+
 p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
@@ -253,7 +258,7 @@ img {
   color: black;
   font-family: "Quicksand", sans-serif;
   font-weight: 100;
-  font-size: 0.9em;
+  font-size: 1em;
   line-height: 0.75em;
   font-kerning: normal;
   white-space: wrap;
@@ -263,7 +268,7 @@ img {
 
 .top-left {
     position: absolute;
-    top: 8px;
+    top: 2px;
     left: 8px;
     font-family: "Quicksand", sans-serif;
     font-weight: 100;
