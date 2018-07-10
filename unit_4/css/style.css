@@ -242,6 +242,8 @@ img {
   font-family: "Quicksand", sans-serif;
   font-size: 0.9em;
   line-height: 0.75em;
+  position: relative;
+  text-align: center;
 }
 
 
@@ -255,6 +257,8 @@ img {
   line-height: 0.75em;
   font-kerning: normal;
   white-space: wrap;
+  position: relative;
+  text-align: center;
 }
 
 .top-left {
