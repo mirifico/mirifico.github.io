@@ -250,6 +250,7 @@ img {
     font-size: 1em;
     line-height: 0.75em;
     font-kerning: normal;
+    vertical-align: text-top;
 }
 
  /* Containers holding the image and the text */
