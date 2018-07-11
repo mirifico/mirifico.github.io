@@ -139,6 +139,7 @@ footer {
   font-size: 0.9em;
   border: 1px solid #AEAADB;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  text-align: center;
 }
 
 img {
@@ -146,6 +147,7 @@ img {
     height: auto;
     z-index: 1000;
 }
+
 
 /*
 .col-1 {width: 8.33%;}
