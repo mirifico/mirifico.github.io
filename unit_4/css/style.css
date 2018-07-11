@@ -311,9 +311,9 @@ img {
   background-color: rgba(174, 170, 219, 0.6);   /*pale blue-purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 5px;
-  /*grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
-  grid-template-rows: auto;*/
-  grid-column: 2 / span 9;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
+  grid-template-rows: auto;
+  grid-column: 2 / span 10;
   grid-row: 9;
 }
 
@@ -321,9 +321,9 @@ img {
   background-color: rgba(174, 170, 219, 0.6);   /*pale blue-purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 5px;
-  /*grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
-  grid-template-rows: auto;*/
-  grid-column: 2 / span 9;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
+  grid-template-rows: auto;
+  grid-column: 2 / span 10;
   grid-row: 10;
 }
 
