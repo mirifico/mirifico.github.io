@@ -313,7 +313,7 @@ img {
   grid-gap: 5px;
   /*grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;*/
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 9;
   grid-row: 9;
 }
 
@@ -326,23 +326,23 @@ img {
 }
 
 .box2-a {
-  grid-column: 2 / span 2;
+  grid-column: 2 / span 1;
 }
 
 .box2-b {
-  grid-column: 4 / span 2;
+  grid-column: 4 / span 1;
 }
 
 .box2-c {
-  grid-column: 6 / span 2;
+  grid-column: 6 / span 1;
 }
 
 .box2-d {
-  grid-column: 8 / span 2;
+  grid-column: 8 / span 1;
 }
 
 .box2-e {
-  grid-column: 10 / span 2;
+  grid-column: 10 / span 1;
 }
 
 
