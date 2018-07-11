@@ -311,6 +311,7 @@ img {
   position: relative;
   text-align: center;
   max-width: auto;
+  vertical-align: middle;
 }
 
 .box2-a {
