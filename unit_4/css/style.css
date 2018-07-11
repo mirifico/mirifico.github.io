@@ -98,6 +98,7 @@ h1 {
 h2, h3, h4, h5 {
 	color: black;
   font-family: "Quicksand", sans-serif;
+  font-weight: 200;
 	line-height: 1.2em;
 	white-space: wrap;
 }
