@@ -317,11 +317,11 @@ img {
   grid-row: 9;
 }
 
-.item9rightpagepad { 
+/*.item9rightpagepad { 
   grid-column: 11 ;
   grid-row: 1 / span 1;
   background-color: #ADDEB5;
-}
+}*/
 
 [class*="box2-"] {
   padding: 3px;
