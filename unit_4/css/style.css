@@ -317,6 +317,12 @@ img {
   grid-row: 9;
 }
 
+.item9rightpagepad { 
+  grid-column: 12 ;
+  grid-row: 1 / span 1;
+  background-color: #ADDEB5;
+}
+
 [class*="box2-"] {
   padding: 3px;
   border-radius: 3px;
@@ -330,19 +336,19 @@ img {
 }
 
 .box2-b {
-  grid-column: 4 / span 1;
+  grid-column: 3 / span 1;
 }
 
 .box2-c {
-  grid-column: 6 / span 1;
+  grid-column: 4 / span 1;
 }
 
 .box2-d {
-  grid-column: 8 / span 1;
+  grid-column: 5 / span 1;
 }
 
 .box2-e {
-  grid-column: 10 / span 1;
+  grid-column: 6 / span 1;
 }
 
 
