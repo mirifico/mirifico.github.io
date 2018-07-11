@@ -286,7 +286,7 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;
   grid-column: 2 / span 10;
-  grid-row: 9;
+  grid-row: 10;
 }
 
 .item9externallinksbarwrapper {
@@ -296,7 +296,7 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;
   grid-column: 2 / span 10;
-  grid-row: 10;
+  grid-row: 11;
 }
 
 [class*="box2-"] {
