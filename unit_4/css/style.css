@@ -324,7 +324,7 @@ img {
 }*/
 
 [class*="box2-"] {
-  padding-top: 5px;
+  padding-top: 10px;
   border-radius: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
