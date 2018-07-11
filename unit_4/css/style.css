@@ -245,6 +245,7 @@ img {
   grid-column: 10 / span 2;
   grid-row: 3 / span 4;
   grid-row-gap: 1px;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   font-family: "Quicksand", sans-serif;
   font-size: 0.9em;
   line-height: 0.75em;
