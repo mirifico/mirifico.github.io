@@ -35,16 +35,16 @@
     top: 80px;
     right: 20px;
     font-family: "Quicksand", sans-serif;
-    font-weight: 100;
-    font-size: 1em;
-    line-height: 0.75em;
+    font-weight: 200;
+    font-size: 1.2em;
+    line-height: 1em;
     font-kerning: normal;
 }
 
  /* unvisited link */
 a:link {
     cursor: auto;
-    background-color: rgba(110,148,146,0.4);    /*--dark sage  #6E9492*/
+    background-color: rgba(110,148,146,0.5);    /*--dark sage  #6E9492*/
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
