@@ -105,22 +105,22 @@ h1 {
 h2, h3, h4, h5 {
 	color: black;
   font-family: "Quicksand", sans-serif;
-  font-weight: 200;
+  font-weight: 400;
 	line-height: 1.2em;
 	white-space: wrap;
 }
 
 #h3.colwhite {
   color: white;
-  font-weight: 200;
+  font-weight: 600;
 }
 
 p {
 	color: black;
   font-family: "Cormorant Garamond", serif;
   font-weight: 100;
-  font-size: 1.2em;
-  line-height: 1.4em;
+  font-size: 1.1em;
+  line-height: 1.3em;
   font-kerning: normal;
   white-space: wrap;
 }
@@ -132,16 +132,15 @@ p {
 
 #p-quotetxt.p2 {
   font-style: italic;
-  line-height: 1.4em;
+  line-height: 1.3em;
   font-size: 1.1em;
 }
 
 #p-center.p3 {
   text-align: center;
-  line-height: 1.4em;
-  font-size: 1.1em;
-  border-color: #ffffff;
-  border-style: 2px solid;
+  line-height: 1.3em;
+  font-size: 1.3em;
+  border: 3px solid white;
 }
 
 /*ul,li {
