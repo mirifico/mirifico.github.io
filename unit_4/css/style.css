@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand:300|Raleway:300');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand:300');
 
 * {
   padding: zero;
@@ -143,12 +143,12 @@ ul,li {
 
 footer {
   padding: 10px;
-  font-size: 1em;
-  line-height: 1.2em;
+  font-size: 1.4em;
+  line-height: 1.4em;
   font-kerning: normal;
   white-space: wrap;
-  border: 2px solid #AEAADB;
-  background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  border: 3px solid #AEAADB;
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
   text-align: center;
 }
 
@@ -295,7 +295,7 @@ img {
 }
 
 .item8resourcepagesbarwrapper {
-  background-color: rgba(174, 170, 219, 0.6);   /*pale blue-purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 5px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
@@ -305,7 +305,7 @@ img {
 }
 
 .item9externallinksbarwrapper {
-  background-color: rgba(174, 170, 219, 0.6);   /*pale blue-purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
   display: grid;
   grid-gap: 5px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
@@ -372,7 +372,4 @@ img {
     font-family: 'Quicksand', sans-serif;
 
     font-family: 'Cormorant Garamond', serif;
-
-    font-family: 'Raleway', sans-serif;
-
 */
