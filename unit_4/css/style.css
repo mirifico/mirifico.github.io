@@ -54,29 +54,28 @@ a:link {
 }
 
 /* visited link */
-a:visited {
+/*a:visited {
     cursor: auto;
-    background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
+    background-color: rgba(161,116,232,0.6);    --dark blue purple  #A174EB
     text-align: center;
     text-decoration: none;
     display: inline-block;
     color: grey;
-}
+}*/
 
 /* cursor over link */
 a:hover {
     text-decoration: none;
     cursor: auto;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    color: white;
-}
+    color: #6E9492;  /*--dark sage  #6E9492*/
 
 /* selected link */
 a:active {
     text-decoration: none;
     cursor: auto;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    color: #6E9492;  /*--dark sage  #6E9492*/
+    color: #FFFFFF;  /*--white*/
 }
 
 body {
