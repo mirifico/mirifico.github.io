@@ -72,6 +72,7 @@ a:hover {
     text-decoration: none;
     display: inline-block;
     color: white;
+    border: 1px solid white;
 }
 
 /* selected link */
@@ -139,8 +140,8 @@ p {
 #p-center.p3 {
   text-align: center;
   line-height: 1.3em;
-  font-size: 1.3em;
-  border: 3px solid white;
+  font-size: 1.2em;
+  border: 1px solid white;
 }
 
 /*ul,li {
