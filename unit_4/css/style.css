@@ -133,7 +133,15 @@ p {
 #p-quotetxt.p2 {
   font-style: italic;
   line-height: 1.4em;
-  font-size: 1em;
+  font-size: 1.1em;
+}
+
+#p-center.p3 {
+  text-align: center;
+  line-height: 1.4em;
+  font-size: 1.1em;
+  border-color: #ffffff;
+  border-style: 2px solid;
 }
 
 /*ul,li {
@@ -143,7 +151,7 @@ p {
 
 footer {
   padding: 10px;
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 1.4em;
   font-kerning: normal;
   white-space: wrap;
