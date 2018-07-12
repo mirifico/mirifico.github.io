@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand:300');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand');
 
 * {
   padding: zero;
@@ -19,10 +19,10 @@
     bottom: 780px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
-    font-family: "Quicksand", sans-serif;
-    font-weight: 100;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
     font-size: 1em;
-    line-height: 0.8em;
+    line-height: 1em;
     font-kerning: normal;
     text-align: left;
     white-space: wrap;
@@ -34,10 +34,10 @@
     position: absolute;
     top: 80px;
     right: 20px;
-    font-family: "Quicksand", sans-serif;
-    font-weight: 100;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
     font-size: 1.5em;
-    line-height: 1em;
+    line-height: 1.5em;
     font-kerning: normal;
 }
 
@@ -86,8 +86,9 @@ a:active {
     color: black;
 }
 
-#a-center.p3 {
-  font-family: "Quicksand", sans-serif;
+#a-center.a3 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
   text-align: center;
   line-height: 1.2em;
   font-size: 1em;
@@ -95,38 +96,39 @@ a:active {
 
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-	font-family: "Cormorant Garamond", serif;
-  font-weight: 100;
+	font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
 	font-size: 1em;
-  line-height: 1.2em;
+  line-height: 1.5em;
 	font-kerning: normal;
 	white-space: wrap;
 }
 
 h1 {
 	color: black;
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
 	line-height: 1.2em;
 	width: 550px;
 }
 
 h2, h3, h4, h5 {
 	color: black;
-  font-family: "Quicksand", sans-serif;
-  font-weight: 200;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
 	line-height: 1.2em;
 	white-space: wrap;
 }
 
 #h3.colwhite {
   color: white;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 p {
 	color: black;
-  font-family: "Cormorant Garamond", serif;
-  font-weight: 100;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
   font-size: 1em;
   line-height: 1.2em;
   font-kerning: normal;
@@ -145,7 +147,8 @@ p {
 }
 
 #p-center.p3 {
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
   text-align: center;
   line-height: 1.2em;
   font-size: 1em;
@@ -159,11 +162,12 @@ p {
 
 footer {
   padding: 1px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
   font-size: 1em;
   line-height: 1.2em;
   font-kerning: normal;
   white-space: wrap;
-  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
   text-align: center;
 }
 
@@ -192,7 +196,8 @@ img {
 .item1headerA {
   padding: 10px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
   font-size: 18px;
 }
 
@@ -200,7 +205,8 @@ img {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
   font-size: 18px;
 }
 
@@ -245,9 +251,10 @@ img {
   grid-row: 3 / span 4;
   grid-row-gap: 1px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  font-family: "Quicksand", sans-serif;
-  font-size: 0.9em;
-  line-height: 0.9em;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 1em;
   position: relative;
   text-align: center;
 }
@@ -261,8 +268,8 @@ img {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
-  font-family: "Quicksand", sans-serif;
-  font-weight: 100;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
   font-size: 1em;
   line-height: 0.75em;
   font-kerning: normal;
@@ -275,9 +282,9 @@ img {
     position: absolute;
     top: 2px;
     left: 15px;
-    font-family: "Quicksand", sans-serif;
-    font-weight: 200;
-    font-size: 0.8em;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 1em;
     line-height: 1em;
     font-kerning: normal;
 }
@@ -333,9 +340,10 @@ img {
   border-radius: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: black;
-  font-family: "Quicksand", sans-serif;
-  font-size: 1.1em;
-  line-height: 0.7em;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+  line-height: 1em;
   position: relative;
   text-align: center;
   max-width: auto;
@@ -382,7 +390,5 @@ img {
   grid-column: 6 / span 1;
 }
 
-/*
-    font-family: 'Quicksand', sans-serif;
-    font-family: 'Cormorant Garamond', serif;
-*/
+/*  font-family: 'Quicksand', sans-serif;
+    font-family: 'Cormorant Garamond', serif; */
