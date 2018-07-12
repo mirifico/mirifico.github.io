@@ -54,14 +54,14 @@ a:link {
 }
 
 /* visited link */
-/*a:visited {
+a:visited {
     cursor: auto;
-    background-color: rgba(161,116,232,0.6);    --dark blue purple  #A174EB
+    background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
     text-align: center;
     text-decoration: none;
     display: inline-block;
     color: grey;
-}*/
+}
 
 /* cursor over link */
 a:hover {
