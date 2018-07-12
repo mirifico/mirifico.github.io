@@ -44,8 +44,7 @@
  /* unvisited link */
 a:link {
     cursor: auto;
-    
-    background-color: #6E9492;     /*--dark sage  #6E9492*/
+    background-color: rgba(161,116,232,0.4);    /*--dark sage  #6E9492*/
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -56,7 +55,8 @@ a:link {
 /* visited link */
 a:visited {
     cursor: auto;
-    background-color: rgba(161,116,232,0.6);    /*--dark blue purple  #A174EB*/
+    background-color: #6E9492;     /*--dark sage  #6E9492*/
+    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -65,17 +65,24 @@ a:visited {
 
 /* cursor over link */
 a:hover {
-    text-decoration: none;
     cursor: auto;
-    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    color: #6E9492;  /*--dark sage  #6E9492*/
+    background-color: #6E9492;     /*--dark sage  #6E9492*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
 
 /* selected link */
 a:active {
-    text-decoration: none;
     cursor: auto;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/
-    color: #FFFFFF;  /*--white*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
 }
 
 body {
@@ -136,8 +143,11 @@ ul,li {
 
 footer {
   padding: 10px;
-  font-size: 0.9em;
-  border: 1px solid #AEAADB;
+  font-size: 1em;
+  line-height: 1.2em;
+  font-kerning: normal;
+  white-space: wrap;
+  border: 2px solid #AEAADB;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
   text-align: center;
 }
