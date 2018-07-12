@@ -44,7 +44,7 @@
  /* unvisited link */
 a:link {
     cursor: auto;
-    background-color: rgba(161,116,232,0.4);    /*--dark sage  #6E9492*/
+    background-color: rgba(110,148,146,0.4);    /*--dark sage  #6E9492*/
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
