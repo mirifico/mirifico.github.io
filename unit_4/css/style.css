@@ -86,7 +86,7 @@ a:active {
     color: black;
 }
 
-#a-center.p3 {
+#a-center.a3 {
   font-family: "Quicksand", sans-serif;
   text-align: center;
   line-height: 1.2em;
@@ -151,11 +151,6 @@ p {
   font-size: 1.1em;
   border: 0.5px solid white;
 }
-
-/*ul,li {
-    list-style-type: none;
-    line-height: 1.2em;
-}*/
 
 footer {
   padding: 1px;
