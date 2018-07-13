@@ -43,16 +43,6 @@ p {
   white-space: wrap;
 }
 
-/*
-div {
-	color: black;
-	font-size: 16px;
-	padding: 2px;
-	border: 0px solid #3b5c78;
-	text-align: left;
-	width: 900px;
-}*/
-
 footer {
   padding: 10px;
   font-size: 14px;
@@ -65,32 +55,6 @@ img {
     height: auto;
     z-index: 1000;
 }
-
-/*
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-
-[class*="col-"] {
-    float: left;
-    padding: 5px;
-    border: 1px solid red;
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}*/
 
 
 .grid-container {
@@ -147,13 +111,13 @@ img {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
-.item7navpane {
+.item7topicspane {
   grid-column: 10 / span 2;
   grid-row: 2 / span 4;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
-.item8topicsbarwrapper {
+.item8buttonsbarwrapper {
   /*background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
   display: grid;
   grid-gap: 10px;
