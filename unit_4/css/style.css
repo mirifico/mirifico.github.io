@@ -163,8 +163,8 @@ img {
 
 .item7topicspane {
   display: grid;
-  grid-column: 2 / span 10;
-  grid-row: 1;
+  grid-column: 10 / span 2;
+  grid-row: 3;
   grid-gap: 4px;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
@@ -186,28 +186,28 @@ img {
 }
 
 .box-a {
-  grid-column: 10 / span 2;
-  grid-row: 3;
+  grid-column: 2 / span 10;
+  grid-row: 1;
 }
 
 .box-b {
-  grid-column: 10 / span 2;
-  grid-row: 4;
+  grid-column: 2 / span 10;
+  grid-row: 2;
 }
 
 .box-c {
-  grid-column: 10 / span 2;
-  grid-row: 5;
+  grid-column: 2 / span 10;
+  grid-row: 3;
 }
 
 .box-d {
-  grid-column: 10 / span 2;
-  grid-row: 6;
+  grid-column: 2 / span 10;
+  grid-row: 4;
 }
 
 .box-e {
-  grid-column: 10 / span 2;
-  grid-row: 7;
+  grid-column: 2 / span 10;
+  grid-row: 5;
 }
 
 .item7aspacerpane {
