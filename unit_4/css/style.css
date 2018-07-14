@@ -195,9 +195,9 @@ img {
 }
 
 /* top left text */
-.top-left2 {
-    position: absolute;
-    top: 2px;
+.top-left {
+    position: relative;
+    top: 8px;
     left: 20px;
     text-align: left;
 }
@@ -205,14 +205,6 @@ img {
 .box-b {
   grid-column: 10 / span 2;
   grid-row: 4;
-}
-
-/* top left text */
-.top-left {
-    position: absolute;
-    top: 2px;
-    left: 20px;
-    text-align: left;
 }
 
 .box-c {
