@@ -164,7 +164,7 @@ img {
 .item7topicspane {
   display: grid;
   grid-column: 10 / span 2;
-  grid-row: 3;
+  grid-row: 3 / span 5;
   grid-gap: 4px;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
