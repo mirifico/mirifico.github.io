@@ -169,13 +169,6 @@ img {
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
-
 [class*="box-"] {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
@@ -188,9 +181,23 @@ img {
   grid-row: 1 / span 1;
 }
 
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
 .box-b {
   grid-column: 2 / span 10;
   grid-row: 2 / span 1;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
 
 .box-c {
@@ -198,14 +205,35 @@ img {
   grid-row: 3 / span 1;
 }
 
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
 .box-d {
   grid-column: 2 / span 10;
   grid-row: 4 / span 1;
 }
 
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
 .box-e {
   grid-column: 2 / span 10;
   grid-row: 5 / span 1;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
 
 .item7aspacerpane {
