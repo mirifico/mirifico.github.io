@@ -19,20 +19,22 @@
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-align: left;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 10px;
     padding-left: 20px;
+    width: 550px;
 }
 
 .top-right-lower {
     position: absolute;
-    top: 80px;
+    top: 100px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
+    width: 550px;
 }
 
 body {
