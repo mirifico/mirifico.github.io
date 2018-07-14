@@ -217,11 +217,11 @@ img {
   grid-row: 4 / span 1;
 }
 
-/* Bottom left text */
-.bottom-left {
+/* Top left text */
+.top-left {
     position: absolute;
-    bottom: 10px;
-    left: 10px;
+    top: 15px;
+    left: 3px;
 }
 
 .box-e {
