@@ -331,7 +331,7 @@ img {
 
 .box-2arowstart {
   grid-column: 2 / span 1;
-  padding: 20px 10px;
+  padding: 20px 5px;
 }
 
 .box-2a {
@@ -356,7 +356,7 @@ img {
 
 .box-2frowstart {
   grid-column: 2 / span 1;
-  padding: 20px 10px;
+  padding: 20px 5px;
 }
 
 .box-2g {
