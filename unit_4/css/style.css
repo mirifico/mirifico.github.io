@@ -173,9 +173,8 @@ img {
 /* top left text */
 .top-left2 {
     position: relative;
-    text-align: center;
-    top: 2px;
     left: 20px;
+    text-align: top;
 }
 
 
