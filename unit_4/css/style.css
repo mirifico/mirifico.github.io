@@ -176,6 +176,7 @@ img {
   background-color: #6E9492;    /*dark sage bckgrnd #6E9492*/
   color: white;
   position: relative;
+  text-decoration: none;
 }
 
 .box-a {
@@ -275,6 +276,8 @@ img {
   text-align: center;
   max-width: auto;
   vertical-align: middle;
+  text-decoration: none;
+  border: 0.5px #6E9492;
 }
 
 .box-2arowstart {
