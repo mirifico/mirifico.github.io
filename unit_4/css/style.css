@@ -184,8 +184,8 @@ img {
 /* Bottom left text */
 .bottom-left {
     position: absolute;
-    bottom: 10px;
-    left: 4px;
+    bottom: 40px;
+    left: 3px;
 }
 
 .box-b {
