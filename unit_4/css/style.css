@@ -168,7 +168,7 @@ img {
   grid-row: 3 / span 4;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
   position: relative;
-  text-align: center;
+  align-items: center;
 }
 
 [class*="box-"] {
@@ -177,7 +177,7 @@ img {
   color: white;
 }
 
-.top-left {
+.box-top-left {
     position: relative;
     top: 2px;
     left: 15px;
