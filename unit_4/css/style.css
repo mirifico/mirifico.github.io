@@ -161,6 +161,8 @@ img {
   grid-column: 10 / span 2;
   grid-row: 3 / span 4;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  position: relative;
+  text-align: center;
 }
 
 [class*="box-"] {
