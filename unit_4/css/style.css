@@ -87,6 +87,13 @@ p {
 
 a {
   text-transform: none;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
+  border: 1px solid white;
 }
 
 /* cursor over link */
