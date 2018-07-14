@@ -89,7 +89,6 @@ img {
 .item1aspacerpaneunderheader {
   grid-column: 2 / span 10;
   grid-row: 2 / span 1;
-  color: rgba(173, 222, 181, 0);   /*pale sage bckgrnd #ADDEB5*/
 }
 
 .item3headline {
@@ -153,7 +152,6 @@ img {
 .item7aspacerpane {
   grid-column: 2 / span 10;
   grid-row: 8 / span 1;
-  color: rgba(173, 222, 181, 0);   /*pale sage bckgrnd #ADDEB5*/
 }
 
 .item8buttonsbarwrapper {
