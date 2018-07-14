@@ -183,6 +183,7 @@ img {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
+  position: relative;
 }
 
 .box-a {
