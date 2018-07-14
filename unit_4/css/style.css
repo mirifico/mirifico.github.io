@@ -120,11 +120,10 @@ img {
 .item7aspacerpane {
   grid-column: 2 / span 10;
   grid-row: 7 / span 1;
-  background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(173, 222, 181, 0.5);   /*pale sage bckgrnd #ADDEB5*/
 }
 
 .item8buttonsbarwrapper {
-  /*background-color: rgba(0, 0, 0, 0.2);   /*0.2 black bckgrnd #FFF*/
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
