@@ -85,6 +85,10 @@ p {
   white-space: normal;
 }
 
+a {
+  text-transform: none;
+}
+
 footer {
   padding: 10px;
   font-size: 14px;
