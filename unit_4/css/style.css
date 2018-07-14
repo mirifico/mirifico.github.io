@@ -169,14 +169,11 @@ img {
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
-/* top left text */
-.text-block {
+/* Bottom left text */
+.bottom-left {
     position: absolute;
-    top: 4px;
-    left: 4px;
-    color: white;
-    padding-left: 2px;
-    padding-right: 2px;
+    bottom: 8px;
+    left: 16px;
 }
 
 [class*="box-"] {
