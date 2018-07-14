@@ -21,6 +21,7 @@
     text-align: left;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 20px;
 }
 
 .top-right-lower {
@@ -170,6 +171,7 @@ img {
     top: 2px;
     left: 15px;
     font-kerning: normal;
+    padding: 5px;
 }
 
 .box-a {
