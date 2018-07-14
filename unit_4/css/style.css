@@ -124,7 +124,7 @@ img {
 }
 
 .item7aspacerpane {
-  grid-column: 3 / span 9;
+  grid-column: 2 / span 10;
   grid-row: 7 / span 1;
   color: rgba(173, 222, 181, 0);   /*pale sage bckgrnd #ADDEB5*/
 }
