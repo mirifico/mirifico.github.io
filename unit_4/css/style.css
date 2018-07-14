@@ -269,15 +269,14 @@ img {
 
 
 [class*="box-2"] {
-  padding: 3px;
+  padding: 2px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
   position: relative;
   text-align: center;
   max-width: auto;
-  vertical-align: middle;
   text-decoration: none;
-  border: 0.5px #6E9492;
+  border: 1px #6E9492;
 }
 
 .box-2arowstart {
@@ -309,21 +308,21 @@ img {
 }
 
 .box-2g {
-  grid-column: 2 / span 1;
-}
-
-.box-2h {
   grid-column: 3 / span 1;
 }
 
-.box-2i {
+.box-2h {
   grid-column: 4 / span 1;
 }
 
-.box-2j {
+.box-2i {
   grid-column: 5 / span 1;
 }
 
-.box-2k {
+.box-2j {
   grid-column: 6 / span 1;
+}
+
+.box-2k {
+  grid-column: 7 / span 1;
 }
