@@ -104,7 +104,7 @@ a:hover {
 /* selected link */
 a:active {
     cursor: auto;
-    background-color: rgba(173,222,181,1);    /*--pale sage  #ADDEB5*/
+    background-color: rgba(173,222,181,0.5);    /*--pale sage  #ADDEB5*/
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
