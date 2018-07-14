@@ -29,13 +29,13 @@ p {
 	white-space: normal;
 }
 
-#p-sage.p1 {
+.p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
   line-height: 1.1;
   white-space: normal;
 }
 
-#p-quotetxt.p2 {
+.p2 {
   color: black; 
   line-height: 0.9;
   font-size: 18px;
@@ -79,7 +79,7 @@ img {
 }
 
 .item2leftpagepad { 
-  grid-column: 1 ;
+  grid-column: 1;
   grid-row: 1 / span 10;
   background-color: #ADDEB5;
 }
