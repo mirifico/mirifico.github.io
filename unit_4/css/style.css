@@ -70,7 +70,7 @@ img {
 .grid-container > div {
   text-align: left;
   padding: 8px;
-  font-size: 16px;
+  font-size: 1em;
   white-space: wrap;
 }
 
