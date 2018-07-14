@@ -94,6 +94,7 @@ a {
   color: black;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   border: 1px solid #6E9492;
+  max-width: 100%
 }
 
 /* cursor over link */
@@ -106,6 +107,7 @@ a:hover {
     display: inline-block;
     color: white;
     border: 1px solid white;
+    max-width: 100%
 }
 
 /* selected link */
@@ -117,6 +119,7 @@ a:active {
     text-decoration: none;
     display: inline-block;
     color: black;
+    max-width: 100%
 }
 
 footer {
