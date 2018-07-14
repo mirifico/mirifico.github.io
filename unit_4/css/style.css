@@ -8,7 +8,7 @@ body {
 	font-family: Calibri;
 	font-size: 16px;
 	font-kerning: normal;
-	white-space: wrap;
+	white-space: normal;
 }
 
 h1 {
@@ -20,19 +20,19 @@ h1 {
 h2, h3, h4 {
 	color: black;
 	line-height: 0.9;
-	white-space: wrap;
+	white-space: normal;
 }
 
 p {
 	color: black;
 	line-height: 1.1;
-	white-space: wrap;
+	white-space: normal;
 }
 
 #p-sage.p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
   line-height: 1.1;
-  white-space: wrap;
+  white-space: normal;
 }
 
 #p-quotetxt.p2 {
@@ -40,7 +40,7 @@ p {
   line-height: 0.9;
   font-size: 18px;
   font-style: italic;
-  white-space: wrap;
+  white-space: normal;
 }
 
 footer {
@@ -71,7 +71,7 @@ img {
   text-align: left;
   padding: 8px;
   font-size: 1em;
-  white-space: wrap;
+  white-space: normal;
 }
 
 .item1header {
@@ -105,14 +105,14 @@ img {
 .item5quotetext {
   grid-column: 7 / span 2;
   grid-row: 5 / span 1;
-  white-space: wrap;
+  white-space: normal;
   background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .item6contactNPC {
   grid-column: 7 / span 2;
   grid-row: 6 / span 1;
-  white-space: wrap;
+  white-space: normal;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
