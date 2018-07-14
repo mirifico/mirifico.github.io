@@ -89,6 +89,29 @@ a {
   text-transform: none;
 }
 
+/* cursor over link */
+a:hover {
+    cursor: auto;
+    background-color: #6E9492;     /*--dark sage  #6E9492*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    border: 1px solid white;
+}
+
+/* selected link */
+a:active {
+    cursor: auto;
+    background-color: rgba(173,222,181,1);    /*--pale sage  #ADDEB5*/
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+}
+
 footer {
   padding: 10px;
   font-size: 14px;
