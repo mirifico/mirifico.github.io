@@ -220,8 +220,8 @@ img {
 /* Bottom left text */
 .bottom-left {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
+    bottom: 10px;
+    left: 10px;
 }
 
 .box-e {
