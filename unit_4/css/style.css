@@ -167,6 +167,7 @@ img {
   grid-row: 3 / span 4;
   grid-gap: 4px;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  align-items: center;
 }
 
 [class*="box-"] {
@@ -174,7 +175,6 @@ img {
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
   position: relative;
-  align-items: center;
 }
 
 .box-a {
