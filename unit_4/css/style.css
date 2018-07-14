@@ -57,6 +57,11 @@ h2, h3, h4 {
 	white-space: normal;
 }
 
+.h4white {
+  color: white;
+  line-height: 0.9;
+}
+
 p {
 	color: black;
 	line-height: 1.1;
@@ -80,6 +85,7 @@ p {
 footer {
   padding: 10px;
   font-size: 14px;
+  text-align: center;
   border: 1px solid #AEAADB;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
