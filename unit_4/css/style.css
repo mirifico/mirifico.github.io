@@ -51,17 +51,19 @@ h1 {
 	color: black;
 	line-height: 0.9;
 	width: 600px;
+  padding: 4px 2px;
 }
 
-h2, h3, h4 {
+h2, h3, h4, h5 {
 	color: black;
 	line-height: 0.9;
 	white-space: normal;
+  padding: 1px
 }
 
 .h4white {
   color: white;
-  line-height: 1.1;
+  line-height: 0.9;
 }
 
 p {
@@ -101,7 +103,7 @@ a {
 a:hover {
     cursor: auto;
     background-color: #6E9492;     /*--dark sage  #6E9492*/
-    padding: 10px 12px;
+    padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -114,7 +116,7 @@ a:hover {
 a:active {
     cursor: auto;
     background-color: rgba(173,222,181,0.5);    /*--pale sage  #ADDEB5*/
-    padding: 10px 12px;
+    padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -124,7 +126,7 @@ a:active {
 
 footer {
   padding: 10px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   text-transform: none;
   border: 1px solid #AEAADB;
