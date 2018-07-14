@@ -100,7 +100,7 @@ a {
 a:hover {
     cursor: auto;
     background-color: #6E9492;     /*--dark sage  #6E9492*/
-    padding: 10px 20px;
+    padding: 10px 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -112,7 +112,7 @@ a:hover {
 a:active {
     cursor: auto;
     background-color: rgba(173,222,181,0.5);    /*--pale sage  #ADDEB5*/
-    padding: 10px 20px;
+    padding: 10px 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
