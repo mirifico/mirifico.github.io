@@ -277,42 +277,50 @@ img {
   vertical-align: middle;
 }
 
-.box-2a {
+.box-2rowstart {
   grid-column: 2 / span 1;
 }
 
-.box-2b {
+.box-2a {
   grid-column: 3 / span 1;
 }
 
-.box-2c {
+.box-2b {
   grid-column: 4 / span 1;
 }
 
-.box-2d {
+.box-2c {
   grid-column: 5 / span 1;
 }
 
-.box-2e {
+.box-2d {
   grid-column: 6 / span 1;
 }
 
-.box-2f {
+.box-2e {
+  grid-column: 7 / span 1;
+}
+
+.box-2frowstart {
   grid-column: 2 / span 1;
 }
 
 .box-2g {
-  grid-column: 3 / span 1;
+  grid-column: 2 / span 1;
 }
 
 .box-2h {
-  grid-column: 4 / span 1;
+  grid-column: 3 / span 1;
 }
 
 .box-2i {
-  grid-column: 5 / span 1;
+  grid-column: 4 / span 1;
 }
 
 .box-2j {
+  grid-column: 5 / span 1;
+}
+
+.box-2k {
   grid-column: 6 / span 1;
 }
