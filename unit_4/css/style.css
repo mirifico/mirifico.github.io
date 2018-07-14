@@ -103,12 +103,14 @@ img {
 }
 
 .item1headerA {
+  padding: 10px;
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item1headerB {
+  padding: 10px;
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
@@ -161,6 +163,13 @@ img {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 2px;
+    left: 15px;
+    font-kerning: normal;
 }
 
 .box-a {
