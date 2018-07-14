@@ -169,6 +169,16 @@ img {
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
+/* top left text */
+.text-block {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 [class*="box-"] {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
@@ -179,16 +189,6 @@ img {
 .box-a {
   grid-column: 10 / span 2;
   grid-row: 3;
-}
-
-/* top left text */
-.text-block {
-    position: absolute;
-    top: 4px;
-    left: 4px;
-    color: white;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 .box-b {
