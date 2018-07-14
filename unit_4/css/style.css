@@ -56,7 +56,6 @@ img {
     z-index: 1000;
 }
 
-
 .grid-container {
   display: grid;
   grid-template-columns: 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3% 8.3%;
@@ -64,7 +63,6 @@ img {
   grid-gap: 0px;
   background-color: #ADDEB5;
   padding: 10px;
-
 }
 
 .grid-container > div {
@@ -119,7 +117,7 @@ img {
 .item7topicspane {
   display: grid;
   grid-column: 10 / span 2;
-  grid-row: 2 / span 4;
+  grid-row: 3 / span 4;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
