@@ -150,6 +150,7 @@ img {
 .item5quotetext {
   grid-column: 7 / span 2;
   grid-row: 5 / span 1;
+  vertical-align: bottom;
   white-space: normal;
   background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
 }
@@ -157,6 +158,7 @@ img {
 .item6contactNPC {
   grid-column: 7 / span 2;
   grid-row: 6 / span 1;
+  vertical-align: bottom;
   white-space: normal;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
@@ -248,19 +250,20 @@ img {
   grid-template-rows: auto;
   grid-column: 2 / span 10;
   grid-row: 9 / span 2;
+  vertical-align: bottom;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
-
+/*
 .item9externallinksbarwrapper {
-  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB
   display: grid;
   grid-gap: 5px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;
   grid-column: 2 / span 10;
   grid-row: 10;
-}
+}*/
 
 
 
