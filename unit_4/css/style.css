@@ -171,19 +171,29 @@ img {
   align-items: center;
 }
 
+/* top right text */
+.top-right2 {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    text-align: left;
+}
+
+/*.top-left {
+    position: relative;
+    top: 2px;
+    left: 15px;
+    font-kerning: normal;
+    text-align: left;
+}*/
+
 [class*="box-"] {
   padding: 3px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
 }
 
-.top-left {
-    position: relative;
-    top: 2px;
-    left: 15px;
-    font-kerning: normal;
-    text-align: left;
-}
+
 
 .box-a {
   grid-column: 10 / span 2;
