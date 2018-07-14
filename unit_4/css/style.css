@@ -167,7 +167,6 @@ img {
   grid-row: 3 / span 4;
   grid-gap: 4px;
   background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
-  position: relative;
 }
 
 [class*="box-"] {
@@ -183,10 +182,13 @@ img {
 }
 
 /* top left text */
-.top-left {
-    position: relative;
-    left: 10px;
-    text-align: left;
+.text-block {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .box-b {
