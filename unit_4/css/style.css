@@ -171,7 +171,7 @@ img {
   align-items: center;
 }
 
-/* top right text */
+/* top left text */
 .top-left2 {
     position: relative;
     top: 2px;
@@ -180,13 +180,6 @@ img {
     align-items: center;
 }
 
-/*.top-left {
-    position: relative;
-    top: 2px;
-    left: 15px;
-    font-kerning: normal;
-    text-align: left;
-}*/
 
 [class*="box-"] {
   padding: 3px;
@@ -199,6 +192,15 @@ img {
 .box-a {
   grid-column: 10 / span 2;
   grid-row: 3;
+}
+
+/* top left text */
+.top-left2 {
+    position: relative;
+    top: 2px;
+    left: : 20px;
+    text-align: left;
+    align-items: center;
 }
 
 .box-b {
