@@ -224,7 +224,7 @@ img {
   grid-row: 3 / span 5;
   grid-gap: 3px;
   vertical-align: center;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+    background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 [class*="box-"] {
