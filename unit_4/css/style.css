@@ -316,6 +316,7 @@ img {
   text-align: center;
   padding: 10px 10px;
   max-width: auto;
+  align-items: center;
   text-decoration: none;
   border: 1px #6E9492;
 }
