@@ -115,7 +115,7 @@ a {
 a:hover {
     cursor: auto;
     background-color: #6E9492;     /*--dark sage  #6E9492*/
-    padding: 1px 1px;
+    padding: 4px 4px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -329,6 +329,7 @@ img {
 
 .box-2a-rowstart {
   grid-column: 2 / span 1;
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .box-2a {
@@ -357,6 +358,7 @@ img {
 
 .box-2g-rowstart {
   grid-column: 2 / span 1;
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
 .box-2g {
