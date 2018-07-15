@@ -308,7 +308,6 @@ img {
   grid-template-rows: auto;
   grid-column: 2 / span 10;
   grid-row: 9 / span 2;
-  max-width: auto;
   align-items: center;
   vertical-align: middle;
   text-transform: none;
@@ -322,7 +321,6 @@ img {
   position: relative;
   text-align: center;
   padding: 10px 10px;
-  max-width: auto;
   align-items: center;
   text-decoration: none;
   border: 1px #6E9492;
