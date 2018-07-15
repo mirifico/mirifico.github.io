@@ -329,7 +329,7 @@ img {
   border: 1px #6E9492;
 }
 
-.box-2arowstart {
+.box-2a-rowstart {
   grid-column: 2 / span 1;
   padding: 22px 5px;
 }
@@ -354,7 +354,11 @@ img {
   grid-column: 7 / span 1;
 }
 
-.box-2frowstart {
+.box-2f {
+  grid-column: 8 / span 1;
+}
+
+.box-2g-rowstart {
   grid-column: 2 / span 1;
   padding: 22px 5px;
 }
@@ -376,5 +380,9 @@ img {
 }
 
 .box-2k {
+  grid-column: 7 / span 1;
+}
+
+.box-2l {
   grid-column: 7 / span 1;
 }
