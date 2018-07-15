@@ -51,14 +51,14 @@ body {
 
 h1 {
 	color: black;
-	line-height: 0.9;
+	line-height: 1.1;
 	width: 600px;
   padding: 4px 2px;
 }
 
 h2, h3, h4, h5 {
 	color: black;
-	line-height: 1.1;
+	line-height: 1.2;
 	white-space: normal;
   padding: 4px 2px;
 }
