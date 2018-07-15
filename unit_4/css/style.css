@@ -233,10 +233,10 @@ img {
   grid-row: 1 / span 1;
 }
 
-/* Bottom left text */
-.bottom-left {
+/* top left text */
+.top-left {
     position: absolute;
-    bottom: 8px;
+    top: 10px;
     left: 16px;
 }
 
@@ -245,10 +245,10 @@ img {
   grid-row: 2 / span 1;
 }
 
-/* Bottom left text */
-.bottom-left {
+/* top left text */
+.top-left {
     position: absolute;
-    bottom: 8px;
+    top: 10px;
     left: 16px;
 }
 
@@ -257,10 +257,10 @@ img {
   grid-row: 3 / span 1;
 }
 
-/* Bottom left text */
-.bottom-left {
+/* top left text */
+.top-left {
     position: absolute;
-    bottom: 8px;
+    top: 10px;
     left: 16px;
 }
 
@@ -269,11 +269,11 @@ img {
   grid-row: 4 / span 1;
 }
 
-/* Top left text */
+/* top left text */
 .top-left {
     position: absolute;
-    top: 15px;
-    left: 3px;
+    top: 10px;
+    left: 16px;
 }
 
 .box-e {
@@ -281,12 +281,11 @@ img {
   grid-row: 5 / span 1;
 }
 
-/* Bottom left text */
-.bottom-left {
+/* top left text */
+.top-left {
     position: absolute;
-    bottom: 8px;
+    top: 10px;
     left: 16px;
-    text-transform: none;
 }
 
 .item7aspacerpane {
