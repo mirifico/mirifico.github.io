@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Quicksand');
 * {
   padding: 0;
   margin: 0;
@@ -41,7 +41,8 @@
 
 body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-	font-family: Calibri;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
 	font-size: 16px;
 	font-kerning: normal;
 	white-space: normal;
