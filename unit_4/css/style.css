@@ -223,6 +223,7 @@ img {
   grid-column: 10 / span 2;
   grid-row: 3 / span 5;
   grid-gap: 3px;
+  vertical-align: middle;
   background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
 }
 
