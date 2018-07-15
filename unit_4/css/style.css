@@ -81,6 +81,10 @@ p {
   text-transform: none;
 }
 
+.pcenter {
+  text-align: center;
+}
+
 .p1 {
   color: #ADDEB5;        /*--pale sage  #ADDEB5 - for covering over placeholder text*/ 
   line-height: 1.1;
