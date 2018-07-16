@@ -444,6 +444,7 @@ header {
 }
 
 nav {
+  display: inline-grid;
   padding: 10px;
   grid-column: 2 / span 10;
   grid-row: 3 / span 1;
