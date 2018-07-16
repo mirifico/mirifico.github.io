@@ -430,10 +430,10 @@ header {
 }
 
 .U5_item1headerA {
-  display: inline-grid;
   padding: 10px;
   grid-column: 1 / span 12;
   grid-row: 1 / span 1;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .U5_item1aspacerpaneunderheader {
