@@ -406,3 +406,24 @@ img {
     padding-left: 20px;
     width: 550px;
 }
+
+.top-right-lower-U5 {
+    position: absolute;
+    top: 128px;
+    right: 20px;
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
+    text-align: center;
+    text-transform: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 550px;
+}
+
+.U5_item1headerA {
+  padding: 10px;
+  grid-column: 2 / span 10;
+  grid-row: 1 / span 1;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+}
