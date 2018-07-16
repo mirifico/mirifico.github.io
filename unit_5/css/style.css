@@ -435,11 +435,77 @@ header {
 .U5_item1headerA {
   padding: 10px;
   grid-column: 1 / span 11;
-  grid-row: 1 / span 1;
+  grid-row: 1 / span 2;
 }
 
 .U5_item2leftpagepad { 
   grid-column: 1;
   grid-row: 1 / span 10;
   background-color: #ADDEB5;
+}
+
+nav {
+  padding: 10px;
+  grid-column: 2 / span 10;
+  grid-row: 3 / span 1;
+}
+
+.box-5a {
+  grid-column: 2 / span 1;
+  grid-row: 3 / span 1;
+}
+
+/* top-left-U5 text */
+.top-left-U5 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+
+.box-5b {
+  grid-column: 4 / span 1;
+  grid-row: 3 / span 1;
+}
+
+/* top-left-U5 text */
+.top-left-U5 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+
+.box-5c {
+  grid-column: 6 / span 1;
+  grid-row: 3 / span 1;
+}
+
+/* top-left-U5 text */
+.top-left-U5 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+
+.box-5d {
+  grid-column: 8 / span 1;
+  grid-row: 3 / span 1;
+}
+
+/* top-left-U5 text */
+.top-left-U5 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+
+.box-5e {
+  grid-column: 10 / span 1;
+  grid-row: 3 / span 1;
+}
+
+/* top-left-U5 text */
+.top-left-U5 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
 }
