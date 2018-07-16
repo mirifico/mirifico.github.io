@@ -383,3 +383,26 @@ img {
 .box-2l {
   grid-column: 8 / span 1;
 }
+
+
+/*Unit 5 project begins here*/
+
+ /* Container holding the image and the text */
+.U5_topimagecontainer {
+    position: relative;
+    text-align: center;
+    background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
+}
+
+/* top right text */
+.top-right-U5 {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    width: 550px;
+}
