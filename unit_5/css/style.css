@@ -515,7 +515,6 @@ nav {
 }
 
 .U5_item1aspacerpaneunderheader2 {
-  display: grid;
   grid-column: 2 / span 10;
   grid-row: 4 / span 1;
 }
