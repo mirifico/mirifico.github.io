@@ -430,9 +430,9 @@ header {
 }
 
 .U5_item1headerA {
-  display: inline-block;
+  display: block;
   padding: 10px;
-  grid-column: 1 / span 11;
+  grid-column: 1 / span 12;
   grid-row: 1 / span 1;
 }
 
