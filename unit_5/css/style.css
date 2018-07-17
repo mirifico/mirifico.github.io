@@ -605,7 +605,8 @@ img {
 .U5_2aside {
   grid-column: 10 / span 2;
   grid-row: 7 / span 1;
-  border: 1px solid black; 
+  border: 1px solid black;
+  border-spacing: 2px;
 }
 
 .U5_item1aspacerpane_row8 {
