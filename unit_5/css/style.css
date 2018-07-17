@@ -264,7 +264,7 @@ img {
   grid-column: 10 / span 2;
   grid-row: 3 / span 5;
   grid-gap: 0px;
-  padding: 2px;
+  padding: 1px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
