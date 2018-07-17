@@ -422,7 +422,7 @@ img {
   white-space: normal;
 }
 
-header {
+.header {
   color: black;
   line-height: 1.1;
   padding: 4px 2px;
@@ -436,7 +436,7 @@ header {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
-.U5_item1aspacerpaneunderheader {
+.U5_item1aspacerpaneunderimage {
   grid-column: 2 / span 10;
   grid-row: 2 / span 1;
 }
@@ -447,7 +447,7 @@ header {
   background-color: #ADDEB5;
 }
 
-nav {
+.nav {
   display: inline-grid;
   padding: 10px;
   grid-column: 2 / span 10;
@@ -514,10 +514,11 @@ nav {
     left: 10px;
 }
 
-.U5_item1aspacerpaneunderheader2 {
+.U5_item1aspacerpaneundernav {
   grid-column: 2 / span 10;
   grid-row: 4 / span 1;
 }
+
 
 .U5_1aside {
   grid-column: 2 / span 3;
