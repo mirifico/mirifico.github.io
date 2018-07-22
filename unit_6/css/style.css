@@ -269,6 +269,7 @@ footer {
   grid-row: 9 / span 1;
   display: inline-block;
   width: 90%;
+  margin: 0 auto;
 }
 
 img {
