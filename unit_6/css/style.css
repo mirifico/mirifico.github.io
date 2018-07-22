@@ -439,27 +439,27 @@ img {
   text-transform: none;
 }
 
-.box-5a {
+.box-3a {
   grid-column: 2 / span 1;
   grid-row: 3 / span 1;
 }
 
-.box-5b {
+.box-3b {
   grid-column: 4 / span 1;
   grid-row: 3 / span 1;
 }
 
-.box-5c {
+.box-3c {
   grid-column: 6 / span 1;
   grid-row: 3 / span 1;
 }
 
-.box-5d {
+.box-3d {
   grid-column: 8 / span 1;
   grid-row: 3 / span 1;
 }
 
-.box-5e {
+.box-3e {
   grid-column: 10 / span 1;
   grid-row: 3 / span 1;
 }
