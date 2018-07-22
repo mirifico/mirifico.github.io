@@ -125,6 +125,10 @@ p {
   white-space: normal;
 }
 
+.pright {
+  float: right;
+}
+
 .pfootnote {
   color: #404040;
   line-height: 1;
