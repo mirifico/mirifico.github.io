@@ -257,13 +257,14 @@ footer {
   padding: 10px;
   font-size: 16px;
   text-align: center;
+  align-items: center;
   text-transform: none;
   border: 1px solid #AEAADB;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: black;
   grid-column: 2 / span 10;
   grid-row: 9 / span 1;
-  display: inline-block;
+  display: block;
 }
 
 img {
