@@ -317,12 +317,12 @@ img {
   grid-row: 2 / span 1;
 }
 
-/* top left text */
+/* top left text
 .top-left {
     position: absolute;
     top: 6px;
     left: 10px;
-}
+}*/
 
 .box-c {
   grid-column: 2 / span 10;
@@ -456,12 +456,6 @@ img {
   line-height: 1.1;
   padding: 4px 2px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-}
-
-.U5_item2leftpagepad { 
-  grid-column: 1;
-  grid-row: 1 / span 10;
-  background-color: #ADDEB5;
 }
 
 .nav {
