@@ -301,7 +301,7 @@ img {
 }
 
 .box-a {
-  /*grid-column: 2 / span 10;*/
+  grid-column: 2 / span 10;
   grid-row: 1 / span 1;
 }
 
