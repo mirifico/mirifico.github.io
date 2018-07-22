@@ -51,6 +51,20 @@ body {
   text-transform: none;
 }
 
+.clear-fix {
+    content: "";
+    clear: both;
+    visibility: hidden;
+    display: block;
+    height: 0;
+    font-size: 0;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+}
+
 h1 {
 	color: black;
 	line-height: 1.1;
@@ -127,6 +141,10 @@ p {
 
 .pright {
   float: right;
+}
+
+.pleft {
+  float: left;
 }
 
 .pfootnote {
