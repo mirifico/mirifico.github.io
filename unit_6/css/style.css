@@ -242,14 +242,6 @@ img {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-
-}
-
-.item1headerB {
-  padding: 10px;
-  grid-column: 2 / span 10;
-  grid-row: 1 / span 1;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item2leftpagepad { 
