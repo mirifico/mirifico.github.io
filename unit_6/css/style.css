@@ -65,6 +65,13 @@ h2, h3, h4, h5 {
   padding: 4px 2px;
 }
 
+h2 {
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+}
+
 .h4white {
   color: white;
   line-height: 1.1;
