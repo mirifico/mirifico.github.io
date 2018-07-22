@@ -88,6 +88,7 @@ p {
 	line-height: 1.2;
 	white-space: normal;
   text-transform: none;
+  padding-left: 10px;
 }
 
 .pcenter {
