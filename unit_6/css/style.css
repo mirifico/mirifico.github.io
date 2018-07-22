@@ -455,14 +455,8 @@ img {
 }
 
 
-/*Unit 5 project begins here*/
+/*Unit 5 project begins here xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
 
- /* Container holding the image and the text */
-.U5_topimagecontainer {
-    position: relative;
-    text-align: center;
-    background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
-}
 
 /* top right text */
 .top-right-U5 {
@@ -498,14 +492,6 @@ img {
   padding: 4px 2px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
-
-/*.U5_item1headerA {
-  padding: 10px;
-  grid-column: 1 / span 12;
-  grid-row: 1 / span 1;
-  background-color: rgba(110, 148, 146, 1);   dark sage bckgrnd #6E9492
-  background-color: #FFED74;   unit5 only
-}*/
 
 .U5_item1aspacerpane_row2 {
   grid-column: 2 / span 10;
