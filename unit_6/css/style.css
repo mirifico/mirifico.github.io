@@ -435,7 +435,8 @@ img {
   padding: 10px;
   grid-column: 2 / span 10;
   grid-row: 3 / span 1;
-  background-color: #E8C66A;   /*unit5 only*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  text-transform: none;
 }
 
 .box-5a {
