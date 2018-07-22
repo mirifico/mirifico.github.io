@@ -224,7 +224,7 @@ a:active {
     text-decoration: none;
     display: inline-block;
     color: black;
-    border: 1px solid rgba(110, 148, 146, 0.2);
+    border: 1px solid rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
     max-width: 100%
 }
 
@@ -234,7 +234,7 @@ footer {
   text-align: center;
   text-transform: none;
   border: 1px solid #AEAADB;
-  background-color: rgba(174, 170, 219, 0.5);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: black;
   grid-column: 2 / span 10;
   grid-row: 9 / span 1;
@@ -496,7 +496,7 @@ img {
 .aside_1 {
   grid-column: 2 / span 3;
   grid-row: 5 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
 }
 
 .art1 {
@@ -522,7 +522,7 @@ img {
 .aside_2 {
   grid-column: 10 / span 2;
   grid-row: 7 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
 }
 
 .item1aspacerpane_row8 {
