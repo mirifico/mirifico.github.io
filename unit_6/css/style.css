@@ -70,6 +70,8 @@ h1 {
 	line-height: 1.1;
 	width: 600px;
   padding: 5px 10px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
 }
 
 h2, h3, h4, h5 {
@@ -77,6 +79,8 @@ h2, h3, h4, h5 {
 	line-height: 1.2;
 	white-space: normal;
   padding: 5px 10px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
 }
 
 h2 {
@@ -257,14 +261,14 @@ footer {
   padding: 10px;
   font-size: 16px;
   text-align: center;
-  align-items: center;
   text-transform: none;
   border: 1px solid #AEAADB;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: black;
   grid-column: 2 / span 10;
   grid-row: 9 / span 1;
-  display: block;
+  display: inline-block;
+  width: 90%;
 }
 
 img {
