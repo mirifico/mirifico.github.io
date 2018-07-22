@@ -245,7 +245,7 @@ footer {
   color: black;
   grid-column: 2 / span 10;
   grid-row: 9 / span 1;
-  display: inline;
+  display: inline-block;
 }
 
 img {
