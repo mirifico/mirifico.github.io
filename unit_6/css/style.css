@@ -159,6 +159,10 @@ ul, li {
   white-space: normal;
 }
 
+ul {
+  padding-left: 20px;
+}
+
 a {
   text-transform: none;
   padding: 4px 4px;
