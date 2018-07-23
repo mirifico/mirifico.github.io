@@ -69,25 +69,25 @@ h1 {
 	color: black;
 	line-height: 1.1;
 	width: 600px;
-  padding: 5px 10px;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 300;
+  	padding: 5px 10px;
+  	font-family: 'Quicksand', sans-serif;
+  	font-weight: 300;
 }
 
 h2, h3, h4, h5 {
 	color: black;
 	line-height: 1.2;
 	white-space: normal;
-  padding: 5px 10px;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 300;
+  	padding: 5px 10px;
+  	font-family: 'Quicksand', sans-serif;
+  	font-weight: 300;
 }
 
 h2 {
-  color: black;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 300;
-  font-size: 24px;
+  	color: black;
+  	font-family: 'Quicksand', sans-serif;
+  	font-weight: 300;
+  	font-size: 24px;
 }
 
 .h4white {
@@ -101,17 +101,17 @@ h2 {
 
 p {
 	color: black;
-  font-family: 'Cormorant Garamond', serif;
-  font-weight: 400;
+  	font-family: 'Cormorant Garamond', serif;
+  	font-weight: 400;
 	line-height: 1.2;
 	white-space: normal;
-  text-transform: none;
-  padding-left: 10px;
-  padding-right: 10px;
+  	text-transform: none;
+  	padding-left: 10px;
+  	padding-right: 10px;
 }
 
 .pcenter {
-  text-align: center;
+	text-align: center;
 }
 
 .p1 {
@@ -210,7 +210,7 @@ ul {
 
 a {
   text-transform: none;
-  padding: 4px 4px;
+  padding: 4px 20px 4px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -222,7 +222,7 @@ a {
 
 a:visited {
   text-transform: none;
-  padding: 4px 4px;
+  padding: 4px 20px 4px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -236,7 +236,7 @@ a:visited {
 a:hover {
     cursor: auto;
     background-color: #6E9492;     /*--dark sage  #6E9492*/
-    padding: 4px 4px;
+  	padding: 4px 20px 4px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -249,7 +249,7 @@ a:hover {
 a:active {
     cursor: auto;
     background-color: rgba(173,222,181,0.5);    /*--pale sage  #ADDEB5*/
-    padding: 4px 4px;
+  	padding: 4px 20px 4px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
