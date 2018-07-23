@@ -417,7 +417,7 @@ img {
 }
 
 [class*="box-2"] {
-  padding: 2px;
+  padding: 0px;
   background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
   color: white;
   position: relative;
