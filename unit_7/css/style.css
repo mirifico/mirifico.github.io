@@ -276,12 +276,14 @@ img {
     height: auto;
 }
 
-.logo {
-    float: right;
-    width: 200px;
-    height: auto;
-    margin-right: 20px;
-    margin-top: 2px
+#logo {
+  position: relative;
+  float: right;
+  width: 200px;
+  height: auto;
+  margin-right: 20px;
+  margin-top: 2px
+  z-index: 100;
 }
 
 .grid-container-oview {
