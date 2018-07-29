@@ -276,9 +276,8 @@ img {
     height: auto;
 }
 
-img.inline {
+.inline {
   display:inline-block;
-  max-height: 50px;
 }
 
 .grid-container-oview {
