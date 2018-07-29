@@ -22,13 +22,13 @@
 }
 
 .top-right-alignleft {
-    top: 20px;
+    top: 60px;
     right: 20px;
     text-align: left;
 }
 
 .top-right-aligncenter {
-    top: 25px;
+    top: 30px;
     right: 20px;
     text-align: center;
 }
@@ -384,8 +384,8 @@ img {
 /* top left text */
 .top-left {
     position: absolute;
-    top: 6px;
-    left: 10px;
+    top: 5px;
+    left: 5px;
 }
 
 .box-b {
