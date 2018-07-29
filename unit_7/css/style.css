@@ -276,8 +276,7 @@ img {
     height: auto;
 }
 
-img.right {
-  display: inline;
+#right {
   float: right;
 }
 
