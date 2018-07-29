@@ -351,7 +351,7 @@ img {
 }
 
 .item6contactNPC {
-  grid-column: 7 / span 2;
+  grid-column: 7 / span 3;
   grid-row: 6 / span 1;
   text-transform: none;
   white-space: normal;
@@ -360,7 +360,7 @@ img {
 
 .item7topicspane {
   display: grid;
-  grid-column: 10 / span 2;
+  grid-column: 11 / span 2;
   grid-row: 3 / span 5;
   grid-gap: 0px;
   padding: 0px;
@@ -409,7 +409,7 @@ img {
 }
 
 .item7aspacerpane {
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 11;
   grid-row: 8 / span 1;
 }
 
@@ -418,7 +418,7 @@ img {
   grid-gap: 3px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
   grid-template-rows: auto;
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 11;
   grid-row: 9 / span 2;
   align-items: center;
   vertical-align: middle;
@@ -540,7 +540,7 @@ img {
 }
 
 .item1aspacerpane_row4 {
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 11;
   grid-row: 4 / span 1;
 }
 
@@ -557,7 +557,7 @@ img {
 }
 
 .item1aspacerpane_row6 {
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 11;
   grid-row: 6 / span 1;  
 }
 
@@ -578,6 +578,6 @@ img {
 }
 
 .item1aspacerpane_row8 {
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 11;
   grid-row: 8 / span 1;
 }
