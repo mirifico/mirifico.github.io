@@ -276,8 +276,8 @@ img {
     height: auto;
 }
 
-.inline {
-  display:inline-block;
+#id {
+    float:right;
 }
 
 .grid-container-oview {
