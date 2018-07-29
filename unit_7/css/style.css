@@ -17,24 +17,24 @@
     position: absolute;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-transform: none;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 20px 10px 20px;
     width: 550px;
 }
 
 .top-right-alignleft {
-    top: 10px;
+    top: 15px;
     right: 20px;
     text-align: left;
 }
 
 .top-right-aligncenter {
-    top: 10px;
+    top: 15px;
     right: 20px;
     text-align: center;
 }
 
 .top-right-lower {
-    top: 107px;
+    top: 122px;
     right: 20px;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-align: center;
