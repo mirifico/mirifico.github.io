@@ -276,7 +276,7 @@ img {
     height: auto;
 }
 
-.logo {
+#logo {
     float:right;
     width:200px;
     height:auto;
