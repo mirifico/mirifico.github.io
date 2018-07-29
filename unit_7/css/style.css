@@ -319,7 +319,7 @@ img {
   vertical-align: middle;
   float: right;
   padding: 4px 10px 20px 0px;
-  width: 100%;
+  min-width: 67%;
 }
 
 .item2leftpagepad { 
