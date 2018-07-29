@@ -278,7 +278,7 @@ img {
 
 #logo {
   max-width: 200px;
-  float: right;
+  align-items: right;
 }
 
 .grid-container-oview {
