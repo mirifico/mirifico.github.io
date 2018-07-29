@@ -122,7 +122,7 @@ p {
 .p2 {
   color: black; 
   line-height: 1.1;
-  font-size: 1em;
+  font-size: 1.2em;
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 5px 10px;
@@ -319,6 +319,7 @@ img {
   vertical-align: middle;
   float: right;
   padding: 4px 10px 20px 0px;
+  min-width: 67%;
 }
 
 .item2leftpagepad { 
