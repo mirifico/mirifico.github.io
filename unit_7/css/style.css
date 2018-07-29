@@ -317,6 +317,13 @@ img {
   padding: 20px 20px 20px 20px;
 }
 
+.inner2 {
+  display: inline-block;
+  vertical-align: middle;
+  float: right;
+  padding: 20px 20px 20px 20px;
+}
+
 .item2leftpagepad { 
   grid-column: 1;
   grid-row: 1 / span 10;
