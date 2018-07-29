@@ -67,7 +67,7 @@ body {
 h1 {
 	color: black;
 	line-height: 1.2;
-  padding: 30px 20px 60px 20px;
+  padding: 5px 10px;
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
 }
@@ -278,9 +278,6 @@ img {
 
 #logo {
   max-width: 200px;
-  position: absolute;
-  top: 10px;
-  right: 20px;
 }
 
 .grid-container-oview {
@@ -312,6 +309,12 @@ img {
   grid-column: 2 / span 10;
   grid-row: 1 / span 2;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+}
+
+.inner {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 20px 20px 20px 20px;
 }
 
 .item2leftpagepad { 
