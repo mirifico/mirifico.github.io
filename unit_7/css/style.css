@@ -277,10 +277,11 @@ img {
 }
 
 #logo {
-    float:right;
-    width:200px;
-    height:auto;
-    margin-right:20px;
+    float: right;
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 2px
 }
 
 .grid-container-oview {
