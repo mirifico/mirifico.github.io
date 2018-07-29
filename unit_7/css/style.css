@@ -278,7 +278,7 @@ img {
 
 .grid-container-oview {
   display: grid;
-  grid-template-columns: 9.3% 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3%;
+  grid-template-columns: 9.3% 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3%;
   grid-template-rows: auto;
   grid-gap: 0px;
   background-color: #ADDEB5;
@@ -343,7 +343,7 @@ img {
 }
 
 .item5quotetext {
-  grid-column: 7 / span 2;
+  grid-column: 7 / span 3;
   grid-row: 5 / span 1;
   vertical-align: bottom;
   white-space: normal;
