@@ -310,14 +310,14 @@ img {
 .inner {
   display: inline-block;
   vertical-align: middle;
-  padding: 40px 20px 40px 20px;
+  padding: 40px 20px 40px 0px;
 }
 
 .inner2 {
   display: inline-block;
   vertical-align: middle;
   float: right;
-  padding: 9px 20px 4px 20px;
+  padding: 5px 0px 5px 0px;
 }
 
 .item2leftpagepad { 
