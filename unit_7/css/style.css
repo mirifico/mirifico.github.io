@@ -276,6 +276,11 @@ img {
     height: auto;
 }
 
+img.inline {
+  display:inline-block;
+  max-height: 50px;
+}
+
 .grid-container-oview {
   display: grid;
   grid-template-columns: 9.3% 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3%;
