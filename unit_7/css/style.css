@@ -276,12 +276,12 @@ img {
     height: auto;
 }
 
-/*#logo {
+#logo {
     float:right;
     width:200px;
     height:auto;
     margin-right:20px;
-}*/
+}
 
 .grid-container-oview {
   display: grid;
