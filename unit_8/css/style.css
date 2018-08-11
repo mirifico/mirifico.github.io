@@ -288,6 +288,8 @@ img {
     height: auto;
 }
 
+
+/*
 .grid-container-oview {
   display: inline-grid;
   grid-template-columns: 9.3% 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3%;
@@ -316,8 +318,8 @@ img {
 .item1headerA {
   grid-column: 2 / span 10;
   grid-row: 1 / span 1;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-}
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
+}*/
 
 .inner {
   display: inline-block;
@@ -333,6 +335,8 @@ img {
   max-width: 20%;
 }
 
+
+/*
 .item2leftpagepad { 
   grid-column: 1;
   grid-row: 1 / span 10;
@@ -352,7 +356,7 @@ img {
 .item4heroimage {
   grid-column: 2 / span 4;
   grid-row: 5 / span 2;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
 }
 
 .item5quotetext {
@@ -360,7 +364,7 @@ img {
   grid-row: 5 / span 1;
   vertical-align: bottom;
   white-space: normal;
-  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB
 }
 
 .item6contactNPC {
@@ -368,7 +372,7 @@ img {
   grid-row: 6 / span 1;
   text-transform: none;
   white-space: normal;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
 }
 
 .item7topicspane {
@@ -377,12 +381,12 @@ img {
   grid-row: 3 / span 5;
   grid-gap: 0px;
   padding: 0px;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
 }
 
 [class*="box-"] {
   padding: 1px;
-  background-color: #6E9492;    /*dark sage bckgrnd #6E9492*/
+  background-color: #6E9492;    /*dark sage bckgrnd #6E9492
   color: white;
   position: relative;
   text-decoration: none;
@@ -394,7 +398,7 @@ img {
   grid-row: 1 / span 1;
 }
 
-/* top left text */
+/* top left text 
 .top-left {
     position: relative;
     top: 5px;
@@ -436,12 +440,12 @@ img {
   align-items: center;
   vertical-align: middle;
   text-transform: none;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
 }
 
 [class*="box-2"] {
   padding: 0px;
-  background-color: #6E9492;     /*dark sage bckgrnd #6E9492*/
+  background-color: #6E9492;     /*dark sage bckgrnd #6E9492
   color: white;
   position: relative;
   text-align: center;
@@ -453,7 +457,7 @@ img {
 
 .box-2a-rowstart {
   grid-column: 2 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
 }
 
 .box-2a {
@@ -482,7 +486,7 @@ img {
 
 .box-2g-rowstart {
   grid-column: 2 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
 }
 
 .box-2g {
@@ -552,7 +556,7 @@ img {
   grid-column: 10 / span 1;
   grid-row: 3 / span 1;
 }
-*/
+
 
 .item1aspacerpane_row4 {
   grid-column: 2 / span 11;
@@ -563,7 +567,7 @@ img {
 .aside_1 {
   grid-column: 2 / span 3;
   grid-row: 5 / span 1;
-  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492
 }
 
 .art1 {
@@ -589,13 +593,14 @@ img {
 .aside_2 {
   grid-column: 10 / span 2;
   grid-row: 7 / span 1;
-  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492
 }
 
 .item1aspacerpane_row8 {
   grid-column: 2 / span 11;
   grid-row: 8 / span 1;
 }
+*/
 
 @media only screen and (max-width: 800px) {
     /* For tablets: */
