@@ -385,7 +385,7 @@ img {
 
 /* top left text */
 .top-left {
-    position: absolute;
+    position: relative;
     top: 5px;
     left: 5px;
 }
@@ -516,6 +516,7 @@ img {
   text-transform: none;
 }
 
+/*
 .box-3a {
   grid-column: 2 / span 1;
   grid-row: 3 / span 1;
@@ -540,6 +541,7 @@ img {
   grid-column: 10 / span 1;
   grid-row: 3 / span 1;
 }
+*/
 
 .item1aspacerpane_row4 {
   grid-column: 2 / span 11;
