@@ -223,12 +223,12 @@ li.n {
   float:left;
   padding: 8px;
   margin-bottom: 7px;
-  background-color: #33b5e5;
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
 }
 
 .nav li:hover {
-    background-color: #0099cc;
+  background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
 }
 
 a {
@@ -364,33 +364,6 @@ img {
 
 
 /*
-
-
-.item5quotetext {
-  grid-column: 7 / span 3;
-  grid-row: 5 / span 1;
-  vertical-align: bottom;
-  white-space: normal;
-  background-color: rgba(174, 170, 219, 0.4);   /*dark blue purp bckgrnd #AEAADB
-}
-
-.item6contactNPC {
-  grid-column: 7 / span 3;
-  grid-row: 6 / span 1;
-  text-transform: none;
-  white-space: normal;
-  
-}
-
-.item7topicspane {
-  display: inline-block;
-  grid-column: 11 / span 2;
-  grid-row: 3 / span 5;
-  grid-gap: 0px;
-  padding: 0px;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
-}
-
 [class*="box-"] {
   padding: 1px;
   background-color: #6E9492;    /*dark sage bckgrnd #6E9492
@@ -398,11 +371,6 @@ img {
   position: relative;
   text-decoration: none;
   vertical-align: center;
-}
-
-.box-a {
-  grid-column: 2 / span 2;
-  grid-row: 1 / span 1;
 }
 
 /* top left text 
@@ -424,103 +392,6 @@ img {
   text-decoration: none;
   border: 1px #6E9492;
 }
-
-.box-2a-rowstart {
-  grid-column: 2 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
-}
-
-.box-2a {
-  grid-column: 3 / span 1;
-}
-
-.box-2b {
-  grid-column: 4 / span 1;
-}
-
-.box-2c {
-  grid-column: 5 / span 1;
-}
-
-.box-2d {
-  grid-column: 6 / span 1;
-}
-
-.box-2e {
-  grid-column: 7 / span 1;
-}
-
-.box-2f {
-  grid-column: 8 / span 1;
-}
-
-.box-2g-rowstart {
-  grid-column: 2 / span 1;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
-}
-
-.box-2g {
-  grid-column: 3 / span 1;
-}
-
-.box-2h {
-  grid-column: 4 / span 1;
-}
-
-.box-2i {
-  grid-column: 5 / span 1;
-}
-
-.box-2j {
-  grid-column: 6 / span 1;
-}
-
-.box-2k {
-  grid-column: 7 / span 1;
-}
-
-.box-2l {
-  grid-column: 8 / span 1;
-}
-
-/*Unit 5 project begins here xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
-
-
-
-
-
-/*
-.box-3a {
-  grid-column: 2 / span 1;
-  grid-row: 3 / span 1;
-}
-
-.box-3b {
-  grid-column: 4 / span 1;
-  grid-row: 3 / span 1;
-}
-
-.box-3c {
-  grid-column: 6 / span 1;
-  grid-row: 3 / span 1;
-}
-
-.box-3d {
-  grid-column: 8 / span 1;
-  grid-row: 3 / span 1;
-}
-
-.box-3e {
-  grid-column: 10 / span 1;
-  grid-row: 3 / span 1;
-}
-
-
-.item1aspacerpane_row4 {
-  grid-column: 2 / span 11;
-  grid-row: 4 / span 1;
-}
-
 
 .aside_1 {
   grid-column: 2 / span 3;
@@ -552,11 +423,6 @@ img {
   grid-column: 10 / span 2;
   grid-row: 7 / span 1;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492
-}
-
-.item1aspacerpane_row8 {
-  grid-column: 2 / span 11;
-  grid-row: 8 / span 1;
 }
 */
 
