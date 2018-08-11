@@ -126,7 +126,7 @@ p {
 .p2 {
   color: white; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1em;
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 5px 10px;
@@ -136,7 +136,7 @@ p {
 .p3 {
   color: black; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1em;
   text-indent: 5%;           /*--first line para indent - orig 30px*/
   white-space: normal;
 }
@@ -144,7 +144,7 @@ p {
 .p4 {                          /*--first line para block*/
   color: black; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1em;
   white-space: normal;
 }
 
@@ -166,7 +166,7 @@ span {
   color: black;
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1em;
   font-kerning: normal;
   line-height: 1.2;
   white-space: normal;
@@ -176,7 +176,7 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1em;
   font-kerning: normal;
   line-height: 1.2;
   white-space: normal;
@@ -187,7 +187,7 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1em;
   font-kerning: normal;
   font-style: italic;
   line-height: 1.2;
