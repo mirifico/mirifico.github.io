@@ -215,7 +215,8 @@ ul {
 ul.n {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 8px;
+  margin-bottom: 7px;
 }
 
 li.n {
@@ -289,8 +290,6 @@ footer {
   border: 1px solid #AEAADB;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: black;
-  grid-column: 2 / span 10;
-  grid-row: 9 / span 1;
   display: inline-block;
   width: 100%;
   margin: 5% auto;
@@ -347,11 +346,12 @@ img {
 }
 
 .nav {
-  display: inline;
+  display: inline-block;
   padding: 2px 10px 2px 10px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   text-align: center;
   text-transform: none;
+  align-items: center;
 }
 
 .buttonsbarwrapper {
