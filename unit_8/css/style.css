@@ -314,7 +314,8 @@ img {
 
 .header {
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
-  color: #ffffff;
+  color: #ffffff;                               /*black*/
+  line-height: 1.1;
   padding: 15px;
 }
 
@@ -556,12 +557,7 @@ img {
 
 /*Unit 5 project begins here xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
 
-.header {
-  color: black;
-  line-height: 1.1;
-  padding: 0px 0px;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-}
+
 
 .nav {
   /*display: inline;*/
