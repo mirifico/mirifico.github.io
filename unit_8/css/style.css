@@ -378,6 +378,7 @@ img {
   display: inline;
   padding: 2px 10px 2px 10px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  text-align: center;
   text-transform: none;
 }
 
