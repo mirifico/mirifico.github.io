@@ -389,6 +389,14 @@ img {
   text-transform: none;
 }
 
+.buttonsbarwrapper {
+  display: inline-block;
+  align-items: center;
+  vertical-align: middle;
+  text-transform: none;
+  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB*/
+}
+
 
 /*
 .item2leftpagepad { 
@@ -484,18 +492,7 @@ img {
   grid-row: 8 / span 1;
 }
 
-.item8buttonsbarwrapper {
-  display: inline-block;
-  grid-gap: 3px;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr) ) ;
-  grid-template-rows: auto;
-  grid-column: 2 / span 11;
-  grid-row: 9 / span 2;
-  align-items: center;
-  vertical-align: middle;
-  text-transform: none;
-  background-color: rgba(174, 170, 219, 0.3);   /*dark blue purp bckgrnd #AEAADB
-}
+
 
 [class*="box-2"] {
   padding: 0px;
