@@ -508,7 +508,7 @@ img {
 }
 
 .nav {
-  display: inline-block;
+  display: inline;
   padding: 2px 10px;
   grid-column: 2 / span 10;
   grid-row: 3 / span 1;
