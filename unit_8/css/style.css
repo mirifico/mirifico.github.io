@@ -132,7 +132,7 @@ p {
   color: black; 
   line-height: 1.3;
   font-size: 1.25em;
-  text-indent: 30px;           /*--first line para indent*/
+  text-indent: 5%;           /*--first line para indent - orig 30px*/
   white-space: normal;
 }
 
@@ -584,9 +584,9 @@ img {
   grid-row: 8 / span 1;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 400px) {
     /* For mobile phones: */
-    [class*="col-"] {
+    [class*="box-"] {
         width: 100%;
     }
 }
