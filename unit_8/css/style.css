@@ -278,7 +278,7 @@ img {
 }
 
 .grid-container-oview {
-  display: inline-block;
+  display: inline-grid;
   grid-template-columns: 9.3% 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3%;
   grid-template-rows: auto;
   grid-gap: 0px;
@@ -287,7 +287,7 @@ img {
 }
 
 .grid-container-A {
-  display: inline-block;
+  display: inline-grid;
   grid-template-columns: 9.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3% 3.3% 9.3% 9.3% 9.3%;
   grid-template-rows: auto;
   grid-gap: 0px;
