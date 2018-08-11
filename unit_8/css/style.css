@@ -413,7 +413,7 @@ img {
 
 @media only screen and (max-width: 800px) {
     /* For tablets: */
-    [class*="box-"] {
+    [class*="col-"] {
         width: 100%;
     }
     body, div, p {
@@ -423,7 +423,7 @@ img {
 
 @media only screen and (max-width: 400px) {
     /* For mobile phones: */
-    [class*="box-"] {
+    [class*="col-"] {
         width: 100%;
     }
     body, div, p {
