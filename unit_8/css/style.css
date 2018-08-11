@@ -130,6 +130,7 @@ p {
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 5px 10px;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .p3 {
@@ -387,7 +388,7 @@ img {
   grid-row: 6 / span 1;
   text-transform: none;
   white-space: normal;
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492
+  
 }
 
 .item7topicspane {
