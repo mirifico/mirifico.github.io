@@ -365,14 +365,14 @@ img {
 .inner {
   display: inline-block;
   vertical-align: middle;
-  padding: 38px 0px 30px 5%;
+  padding: 38px 0px 30px 20px;
 }
 
 .inner2 {
   display: inline-block;
   vertical-align: middle;
   float: right;
-  padding: 3% 5% 5% 0%;
+  padding: 5px 20px 10px 0px;
   max-width: 25%;
 }
 
