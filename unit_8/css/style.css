@@ -447,17 +447,16 @@ img.logo {
     /* For smaller mobile phones: */
     [class*="col-"] {
       width: 100%;
-  }
+    }
     body {
       font-size: 14px;
-  }
+    }
     div, p {
       font-size: 0.95em;
-  }
+    }
     .inner2 {
     display: inline-block;
     float: right;
     padding: 0px;
-    min-width: 40%;
   }    
 }
