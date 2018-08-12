@@ -367,8 +367,8 @@ img.logo {
 .header {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;                             /*black*/
-  line-height: 1.0;
-  padding: 10px 10px 80px 10px;
+  line-height: 2.0;
+  padding: 40px 10px 80px 10px;
 }
 
 .inner {
