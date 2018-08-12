@@ -312,7 +312,7 @@ img.logo {
     position: absolute;
     right: 2px;
     top: 1px;
-    max-width: 65%;
+    max-width: 100%;
     z-index: 1000;
     padding-bottom: 5px;
 }
