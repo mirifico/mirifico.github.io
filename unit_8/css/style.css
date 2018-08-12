@@ -505,9 +505,14 @@ img.logo {
       text-align: center;
     }
     .top-right-alignleft {
-    top: 1%;
-    right: 0px;
-    text-align: left;
-    font-size: 0.9em;
+      top: 1%;
+      right: 0px;
+      text-align: left;
+      font-size: 0.9em;
+    }
+    .pright {
+      float: none;
+      padding-right: 0px;
+      text-align: center;
     }
 }
