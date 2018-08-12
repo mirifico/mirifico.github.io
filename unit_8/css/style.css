@@ -106,6 +106,13 @@ h5 {
   text-align: center;
 }
 
+  /*top left text */
+h4.top-left {
+    position: fixed;
+    top: 5px;
+    left: 5px;
+}
+
 p {
 	color: black;
   font-family: 'Cormorant Garamond', serif;
@@ -214,6 +221,13 @@ ul, li {
   white-space: normal;
 }
 
+  /*top left text */
+li.top-left {
+    position: fixed;
+    top: 5px;
+    left: 5px;
+}
+
 li.a {
     display: block;
     color: white;
@@ -315,13 +329,6 @@ footer {
 img {
     width: 100%;
     height: auto;
-}
-
-/*top left text */
-.top-left {
-    position: relative;
-    top: 5px;
-    left: 5px;
 }
 
 img.logo {
@@ -475,12 +482,11 @@ img.logo {
       font-size: 1em;
     }
     img.logo {
-    position: relative;
+    position: absolute;
     right: 2px;
     top: 1px;
-    max-width: 50%;
+    max-width: 85%;
     z-index: 1000;
     padding: 0px;
-    height: auto;
 }
 }
