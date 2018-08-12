@@ -200,11 +200,11 @@ span {
 ul, li {
   color: black;
   font-family: 'Cormorant Garamond', serif;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.2;
   white-space: normal;
   text-transform: none;
-  font-size: 1.2em;
+  font-size: 1.1em;
   white-space: normal;
 }
 
