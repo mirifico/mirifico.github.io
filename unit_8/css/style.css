@@ -246,12 +246,12 @@ ul.n {
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 1em;
-  padding: 2px 2px 2px 2px;
+  padding: 10px 5px 10px 5px;
 }
 
 li.n {
   float:left;
-  padding: 2px 2px 2px 2px;
+  padding: 10px 5px 10px 5px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
   font-size: 1.2em;
