@@ -359,15 +359,13 @@ img.logo {
 
 .inner {
   display: inline-block;
-  vertical-align: middle;
   padding: 15px 0px 20px 2px;
 }
 
 .inner2 {
   display: inline-block;
   float: right;
-  vertical-align: middle;
-  padding-bottom: 20px;
+  padding: 15px 0px 20px 2px;
 }
 
 .nav {
