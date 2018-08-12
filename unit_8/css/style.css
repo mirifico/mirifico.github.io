@@ -437,7 +437,7 @@ img.logo {
       font-size: 16px;
     }
     div, p {
-      font-size: 1em;
+      font-size: 0.9em;
     }
 }
 
@@ -450,7 +450,7 @@ img.logo {
       font-size: 15px;
     }
     div, p {
-      font-size: 1em;
+      font-size: 0.9em;
     }
 }
 
@@ -463,6 +463,6 @@ img.logo {
       font-size: 14px;
     }
     div, p {
-      font-size: 1em;
+      font-size: 0.9em;
     }
 }
