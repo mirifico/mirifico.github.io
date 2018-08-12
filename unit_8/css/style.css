@@ -222,19 +222,13 @@ ul, li {
   white-space: normal;
 }
 
-  /*top left text
-li.top-left {
-    position: fixed;
-    top: 5px;
-    left: 5px;
-}*/
-
+/*
 li.a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
-}
+}*/
 
 ul {
   padding-left: 28px;
