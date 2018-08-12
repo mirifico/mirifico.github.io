@@ -302,7 +302,7 @@ img {
 
 img.logo {
     position: absolute;
-    max-width: 71%
+    max-width: 25%
     right: 2px;
     top: 2px;
     z-index: 100;
@@ -455,9 +455,4 @@ img.logo {
     div, p {
       font-size: 0.95em;
     }
-    .inner2 {
-    display: inline-block;
-    float: right;
-    padding: 0px;
-  }    
 }
