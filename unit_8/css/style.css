@@ -314,6 +314,7 @@ img.logo {
     top: 1px;
     max-width: 65%;
     z-index: 1000;
+    padding-bottom: 5px;
 }
 
 .row::after {
@@ -357,7 +358,7 @@ img.logo {
   display: inline-block;
   float: right;
   vertical-align: middle;
-  padding: 0px;
+  padding-bottom: 10px;
 }
 
 .nav {
