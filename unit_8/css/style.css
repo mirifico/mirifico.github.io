@@ -392,12 +392,11 @@ img.logo {
 
 .top-right-aligncenter2 {
     top: 2%;
-    right: 2%;
     text-align: center;
     background-color: rgba(0, 0, 0, 0);    /*--no colour*/ 
     text-transform: none;
     padding: 5px 15px 5px 15px;
-    width: 100%;
+    width: 90%;
 }
 
 .buttonsbarwrapper {
