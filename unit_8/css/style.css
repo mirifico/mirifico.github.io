@@ -22,19 +22,19 @@
 }
 
 .top-right-alignleft {
-    top: 25%;
+    top: 20%;
     right: 2%;
     text-align: left;
 }
 
 .top-right-aligncenter {
-    top: 25%;
+    top: 20%;
     right: 2%;
     text-align: center;
 }
 
 .top-right-lower {
-    top: 50%;
+    top: 40%;
     right: 2%;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-align: center;
@@ -302,10 +302,10 @@ img {
 
 img.logo {
     position: absolute;
-    max-width: 25%
+    max-width: 30%
     right: 2px;
     top: 2px;
-    z-index: 100;
+    z-index: 1000;
 }
 
 .row::after {
