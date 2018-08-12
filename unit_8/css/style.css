@@ -305,7 +305,7 @@ img.logo {
     max-width: 71%
     right: 2px;
     top: 2px;
-    z-index: 1000;
+    z-index: 100;
 }
 
 .row::after {
