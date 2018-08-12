@@ -300,6 +300,13 @@ img {
     height: auto;
 }
 
+img.logo {
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    z-index: 1000;
+}
+
 .row::after {
     content: "";
     clear: both;
