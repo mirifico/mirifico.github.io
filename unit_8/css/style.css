@@ -231,7 +231,6 @@ li.top-left {
 
 li.a {
     display: block;
-    font-size: 1.2em;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -255,6 +254,7 @@ li.n {
   padding: 2px 2px 2px 2px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
+  font-size: 1.2em;
 }
 
 .nav li:hover {
