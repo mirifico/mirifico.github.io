@@ -373,13 +373,13 @@ img.logo {
 
 .inner {
   display: inline-block;
-  padding: 5px 0px 5px 2px;
+  padding: 0px 0px 5px 2px;
 }
 
 .inner2 {
   display: inline-block;
   float: right;
-  padding: 5px 0px 5px 2px;
+  padding: 0px 0px 5px 2px;
 }
 
 .nav {
@@ -479,10 +479,17 @@ img.logo {
     }
     img.logo {
     position: absolute;
+    align-items: center;
     right: 2px;
     top: 1px;
-    max-width: 85%;
+    max-width: 100%;
     z-index: 1000;
     padding: 0px;
-}
+    }
+    .header {
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+  color: #ffffff;                             /*black*/
+  line-height: 0.9;
+  padding: 0px;
+  }
 }
