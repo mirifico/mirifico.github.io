@@ -478,7 +478,7 @@ img.logo {
       font-size: 1em;
     }
     img.logo {
-    position: absolute;
+    /*position: absolute;*/
     align-items: center;
     right: 2px;
     top: 1px;
@@ -487,9 +487,9 @@ img.logo {
     padding: 0px;
     }
     .header {
-  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  color: #ffffff;                             /*black*/
-  line-height: 0.9;
-  padding: 0px;
-  }
+    background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+    color: #ffffff;                             /*black*/
+    line-height: 0.9;
+    padding: 0px;
+    }
 }
