@@ -472,4 +472,12 @@ img.logo {
     div, p {
       font-size: 0.9em;
     }
+    img.logo {
+    position: relative;
+    right: 2px;
+    top: 1px;
+    max-width: 70%;
+    z-index: 1000;
+    padding-bottom: 0px;
+}
 }
