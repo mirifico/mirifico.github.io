@@ -302,7 +302,6 @@ img {
 
 img.logo {
     position: absolute;
-    max-width: 30%
     right: 2px;
     top: 2px;
     z-index: 1000;
@@ -348,7 +347,8 @@ img.logo {
 .inner2 {
   display: inline-block;
   float: right;
-  padding: 0px 2px 2px 0px;
+  vertical-align: middle;
+  padding: 0px 2px 0px 0px;
 }
 
 .nav {
