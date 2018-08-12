@@ -478,18 +478,21 @@ img.logo {
       font-size: 1em;
     }
     img.logo {
-    /*position: absolute;*/
-    align-self: center;
-    right: 2px;
-    top: 1px;
-    max-width: 65%;
-    z-index: 1000;
-    padding: 0px;
+      /*position: absolute;*/
+      align-self: center;
+      right: 2px;
+      top: 1px;
+      max-width: 65%;
+      z-index: 1000;
+      padding: 0px;
     }
     .header {
-    background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-    color: #ffffff;                             /*black*/
-    line-height: 0.9;
-    padding: 0px;
+      background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+      color: #ffffff;                             /*black*/
+      line-height: 0.9;
+      padding: 0px;
+    }
+    h1, h2, h3, h4, h5 {
+      text-align: center;
     }
 }
