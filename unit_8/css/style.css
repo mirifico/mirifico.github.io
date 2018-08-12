@@ -22,20 +22,20 @@
 }
 
 .top-right-alignleft {
-    top: 60px;
-    right: 5%;
+    top: 25%;
+    right: 2%;
     text-align: left;
 }
 
 .top-right-aligncenter {
-    top: 30px;
-    right: 5%;
+    top: 25%;
+    right: 2%;
     text-align: center;
 }
 
 .top-right-lower {
-    bottom: 5%;
-    right: 5%;
+    top: 50%;
+    right: 2%;
     background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-align: center;
 }
