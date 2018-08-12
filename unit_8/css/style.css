@@ -451,8 +451,8 @@ img {
   }
     .inner2 {
     display: inline-block;
-    float: none;
+    float: right;
     padding: 0px;
-    max-width: 50%;
+    min-width: 40%;
   }    
 }
