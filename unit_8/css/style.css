@@ -345,7 +345,7 @@ img.logo {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;                             /*black*/
   line-height: 1.0;
-  padding: 2px;
+  padding: 10px;
 }
 
 .inner {
