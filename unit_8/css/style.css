@@ -222,13 +222,13 @@ ul, li {
   white-space: normal;
 }
 
-/*
+
 li.a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
-}*/
+}
 
 ul {
   padding-left: 28px;
@@ -237,9 +237,6 @@ ul {
 ul.n {
   list-style-type: none;
   display:inline-block;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 300;
-  font-size: 1em;
   padding: 10px 5px 10px 5px;
 }
 
@@ -248,6 +245,8 @@ li.n {
   padding: 10px 5px 10px 5px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
   font-size: 1.2em;
 }
 
