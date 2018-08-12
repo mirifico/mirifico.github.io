@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 1.2em;
+  font-size: 1.3em;
   padding: 5px 10px 5px 10px;
 }
 
@@ -222,15 +222,15 @@ ul.n {
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 1em;
-  margin: 0;
-  padding: 8px;
+  margin: 0px;
+  padding: 20px;
   margin-bottom: 4px;
 }
 
 li.n {
   display:inline-block;
   float:left;
-  padding: 8px;
+  padding: 20px;
   margin-bottom: 4px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
@@ -243,6 +243,7 @@ li.n {
 a {
   text-transform: none;
   padding: 2px 8px 2px 8px;
+  font-size: 22px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
