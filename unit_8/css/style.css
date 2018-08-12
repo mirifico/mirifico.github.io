@@ -106,12 +106,12 @@ h5 {
   text-align: center;
 }
 
-  /*top left text */
+  /*top left text
 .top-left {
     position: fixed;
     top: 5px;
     left: 5px;
-}
+}*/
 
 p {
 	color: black;
@@ -221,12 +221,12 @@ ul, li {
   white-space: normal;
 }
 
-  /*top left text */
+  /*top left text
 li.top-left {
     position: fixed;
     top: 5px;
     left: 5px;
-}
+}*/
 
 li.a {
     display: block;
@@ -431,12 +431,12 @@ img.logo {
   display: inline-block;
 }
 
-/* top left text */
+/* top left text
 .top-left {
     position: absolute;
     top: 6px;
     left: 10px;
-}
+}*/
 
 
 @media only screen and (max-width: 800px) {
