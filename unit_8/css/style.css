@@ -209,8 +209,16 @@ ul, li {
   line-height: 1.2;
   white-space: normal;
   text-transform: none;
+  text-decoration: none;
   font-size: 1em;
   white-space: normal;
+}
+
+li.a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 ul {
