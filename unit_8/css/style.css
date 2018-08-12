@@ -390,6 +390,16 @@ img.logo {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
+.top-right-aligncenter2 {
+    top: 2%;
+    right: 2%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);    /*--no colour*/ 
+    text-transform: none;
+    padding: 5px 15px 5px 15px;
+    width: 100%;
+}
+
 .buttonsbarwrapper {
   display: inline-block;
   padding: 2px 8px 2px 8px;
