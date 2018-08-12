@@ -373,13 +373,13 @@ img.logo {
 
 .inner {
   display: inline-block;
-  padding: 15px 0px 20px 2px;
+  padding: 5px 0px 20px 2px;
 }
 
 .inner2 {
   display: inline-block;
   float: right;
-  padding: 15px 0px 20px 2px;
+  padding: 5px 0px 20px 2px;
 }
 
 .nav {
@@ -418,9 +418,10 @@ img.logo {
 .art3 { 
 }
 
+/*
 [class*="box-"] {
   padding: 1px;
-  background-color: #6E9492;    /*dark sage bckgrnd #6E9492*/
+  background-color: #6E9492;    /*dark sage bckgrnd #6E9492
   color: white;
   position: relative;
   text-decoration: none;
@@ -429,7 +430,7 @@ img.logo {
 
 .box-a {
   display: inline-block;
-}
+}*/
 
 /* top left text
 .top-left {
