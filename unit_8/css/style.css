@@ -383,6 +383,13 @@ img.logo {
   text-transform: none;
 }
 
+ /* Button ontainer holding button image and text */
+.buttonimagecontainer {
+  position: relative;
+  text-align: center;
+  background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
+}
+
 .buttonsbarwrapper {
   display: inline-block;
   padding: 2px 8px 2px 8px;
