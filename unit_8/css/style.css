@@ -241,19 +241,16 @@ ul {
 
 ul.n {
   list-style-type: none;
+  display:inline-block;
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 1em;
-  margin: 0px;
-  padding: 10px 2px 10px 2px;
-  margin-bottom: 4px;
+  padding: 2px 2px 2px 2px;
 }
 
 li.n {
-  display:inline-block;
   float:left;
-  padding: 10px 2px 10px 2px;
-  margin-bottom: 4px;
+  padding: 2px 2px 2px 2px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
 }
