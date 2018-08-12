@@ -110,7 +110,7 @@ p {
 	color: black;
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
 	line-height: 1.2;
 	white-space: normal;
   text-transform: none;
@@ -131,7 +131,7 @@ p {
 .p2 {
   color: white; 
   line-height: 1.2;
-  font-size: 1em;
+  font-size: 1.2em;
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 4px 8px;
@@ -141,7 +141,7 @@ p {
 .p3 {
   color: black; 
   line-height: 1.2;
-  font-size: 1em;
+  font-size: 1.2em;
   text-indent: 10px;           /*--first line para indent - orig 30px*/
   white-space: normal;
 }
@@ -149,7 +149,7 @@ p {
 .p4 {                          /*--first line para block*/
   color: black; 
   line-height: 1.2;
-  font-size: 1em;
+  font-size: 1.2em;
   white-space: normal;
 }
 
@@ -163,7 +163,7 @@ p {
 
 .pfootnote {
   color: #404040;
-  line-height: 1;
+  line-height: 1.2;
   font-size: 0.9em;
 }
 
@@ -171,9 +171,9 @@ span {
   color: black;
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
-  font-size: 0.9em;
+  font-size: 1em;
   font-kerning: normal;
-  line-height: 1.1;
+  line-height: 1.2;
   white-space: normal;
 }
 
@@ -181,9 +181,9 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 1.2em;
   font-kerning: normal;
-  line-height: 1.1;
+  line-height: 1.2;
   white-space: normal;
   padding: 2px;
 }
@@ -313,8 +313,15 @@ footer {
 }
 
 img {
-    width: 100%;
+    width: 110%;
     height: auto;
+}
+
+/*top left text */
+.top-left {
+    position: relative;
+    top: 5px;
+    left: 5px;
 }
 
 img.logo {
@@ -414,12 +421,7 @@ img.logo {
   vertical-align: center;
 }
 
-/* top left text 
-.top-left {
-    position: relative;
-    top: 5px;
-    left: 5px;
-}
+
 
 
 [class*="box-2"] {
@@ -444,7 +446,7 @@ img.logo {
       font-size: 16px;
     }
     div, p {
-      font-size: 0.9em;
+      font-size: 1em;
     }
 }
 
@@ -457,7 +459,7 @@ img.logo {
       font-size: 15px;
     }
     div, p {
-      font-size: 0.9em;
+      font-size: 1em;
     }
 }
 
@@ -470,7 +472,7 @@ img.logo {
       font-size: 14px;
     }
     div, p {
-      font-size: 0.9em;
+      font-size: 1em;
     }
     img.logo {
     position: relative;
