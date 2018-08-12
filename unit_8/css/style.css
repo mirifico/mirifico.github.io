@@ -199,7 +199,7 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 1.2em;
   font-kerning: normal;
   font-style: italic;
   line-height: 1.1;
@@ -245,14 +245,14 @@ ul.n {
   font-weight: 300;
   font-size: 1em;
   margin: 0px;
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 4px;
 }
 
 li.n {
   display:inline-block;
   float:left;
-  padding: 18px;
+  padding: 10px;
   margin-bottom: 4px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
@@ -314,7 +314,7 @@ a:active {
 }
 
 footer {
-  padding: 2px;
+  padding: 6px;
   font-size: 1em;
   text-align: center;
   text-transform: none;
@@ -337,7 +337,7 @@ img.logo {
   top: 1px;
   max-width: 100%;
   z-index: 1000;
-  padding: 2px 8px 2px 8px;
+  padding: 0px;
 }
 
 .row::after {
@@ -368,18 +368,18 @@ img.logo {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;                             /*black*/
   line-height: 1.0;
-  padding: 10px;
+  padding: 5px;
 }
 
 .inner {
   display: inline-block;
-  padding: 5px 0px 20px 2px;
+  padding: 5px 0px 5px 2px;
 }
 
 .inner2 {
   display: inline-block;
   float: right;
-  padding: 5px 0px 20px 2px;
+  padding: 5px 0px 5px 2px;
 }
 
 .nav {
