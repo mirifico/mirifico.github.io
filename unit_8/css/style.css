@@ -476,8 +476,10 @@ img.logo {
     position: relative;
     right: 2px;
     top: 1px;
-    max-width: 70%;
+    max-width: 50%;
     z-index: 1000;
-    padding-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
 }
 }
