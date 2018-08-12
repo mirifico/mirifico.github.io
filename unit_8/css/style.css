@@ -313,7 +313,7 @@ footer {
 }
 
 img {
-    width: 110%;
+    width: 100%;
     height: auto;
 }
 
@@ -481,7 +481,6 @@ img.logo {
     max-width: 50%;
     z-index: 1000;
     padding: 0px;
-    width: 100%;
     height: auto;
 }
 }
