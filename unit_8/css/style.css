@@ -494,4 +494,10 @@ img.logo {
     h1, h2, h3, h4, h5 {
       text-align: center;
     }
+    .top-right-alignleft {
+    top: 1%;
+    right: 0px;
+    text-align: left;
+    font-size: 0.9em;
+    }
 }
