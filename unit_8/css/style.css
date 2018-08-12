@@ -45,7 +45,7 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-	font-size: 18px;
+	font-size: 16px;
 	font-kerning: normal;
 	white-space: normal;
   text-transform: none;
@@ -110,7 +110,7 @@ p {
 	color: black;
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 18px;
 	line-height: 1.2;
 	white-space: normal;
   text-transform: none;
@@ -238,7 +238,7 @@ ul.n {
 li.n {
   display:inline-block;
   float:left;
-  padding: 20px;
+  padding: 18px;
   margin-bottom: 4px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
