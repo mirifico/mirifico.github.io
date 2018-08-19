@@ -345,6 +345,7 @@ img.logo {
 
 [class*="col-"] {
     float: left;
+    align-items: left;
     padding: 8px;
 }
 
