@@ -392,7 +392,7 @@ img.logo {
 
  /* Button container holding button image and text */
 .buttonimagecontainer {
-  position: relative;
+  /*position: relative;*/
   text-align: center;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   padding: 5px 15px 5px 15px;
@@ -404,12 +404,12 @@ img.logo {
     background-color: rgba(0, 0, 0, 0);    /*--no colour*/ 
     text-transform: none;
     padding: 5px 15px 5px 15px;
-    width: 90%;
+    width: 100%;
 }
 
 .buttonsbarwrapper {
   display: block;
-  padding: 2px 8px 2px 8px;
+  padding: 4px 8px 4px 8px;
   background-color: rgba(174, 170, 219, 0.2);   /*dark blue purp bckgrnd #AEAADB*/
   align-items: left;
   vertical-align: middle;
