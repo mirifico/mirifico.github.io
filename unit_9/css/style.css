@@ -371,6 +371,7 @@ img.logo {
 
 .inner {
   display: inline-block;
+  float: left;
   padding: 0px 0px 5px 2px;
 }
 
