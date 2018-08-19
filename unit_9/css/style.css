@@ -166,7 +166,7 @@ p {
 }
 /*equivalent to a shim*/
 .pcenter2 {
-  float: right;
+  float: left;
   padding-left: 20px;
   line-height: 1.0;
   text-align: center;
