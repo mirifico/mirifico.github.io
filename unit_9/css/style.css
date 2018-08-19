@@ -187,21 +187,21 @@ span {
   font-kerning: normal;
   line-height: 1.2;
   white-space: normal;
-  padding: 2px;
+  padding: 8px;
 }
 
 .pstandout2 {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-kerning: normal;
   font-style: italic;
   line-height: 1.1;
   white-space: normal;
   border: 1px solid black;
-  border-spacing: 2px;
-  padding: 6px;
+  border-spacing: 4px;
+  padding: 8px;
 }
 
 ul, li {
