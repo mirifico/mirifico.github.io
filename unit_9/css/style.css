@@ -448,6 +448,22 @@ img.logo {
     left: 10px;
 }*/
 
+@media only screen and (max-width: 1024px) {
+    /* For tablets: */
+    [class*="col-"] {
+      width: 100%;
+    }
+    body {
+      font-size: 16px;
+    }
+    div, p {
+      font-size: 1em;
+    }
+    .top-right-lower {
+    bottom: 15%;
+    }
+}
+
 
 @media only screen and (max-width: 800px) {
     /* For tablets: */
