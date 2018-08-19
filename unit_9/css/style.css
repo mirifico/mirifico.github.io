@@ -321,7 +321,7 @@ a:active {
 }
 
 footer {
-  padding: 0px;
+  padding: 6px;
   font-size: 1em;
   text-align: center;
   line-height: 1.9;
@@ -393,11 +393,12 @@ img.logo {
 
 .nav {
   display: inline-block;
-  padding: 15px 0px 80px 0px;
+  padding: 15px 0px 20px 0px;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   align-items: center;
   text-align: center;
   text-transform: none;
+  min-height: 120px;
 }
 
  /* Button container holding button image and text */
@@ -406,7 +407,7 @@ img.logo {
   text-align: center;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   padding: 5px 15px 5px 15px;
-  min-height: 80px;
+  min-height: 100px;
 }
 
 .top-right-aligncenter2 {
@@ -426,7 +427,7 @@ img.logo {
   vertical-align: middle;
   text-align: center;
   text-transform: none;
-  min-height: 80px;
+  min-height: 100px;
 }
 
 .aside_1 {
