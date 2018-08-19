@@ -406,6 +406,7 @@ img.logo {
   text-align: center;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   padding: 5px 15px 5px 15px;
+  min-height: 120px;
 }
 
 .top-right-aligncenter2 {
