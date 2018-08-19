@@ -230,14 +230,17 @@ ul {
 
 ul.n {
   list-style-type: none;
-  display: inline-block;
+  display: block;
+  float: left;
   padding: 10px 5px 10px 5px;
   text-transform: none;
   text-decoration: none;
 }
 
 li.n {
-  float:left;
+  list-style-type: none;
+  float: left;
+  display: block;
   padding: 10px 5px 10px 5px;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;
