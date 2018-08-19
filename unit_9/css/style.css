@@ -258,6 +258,7 @@ a {
   padding: 2px 4px 2px 4px;
   font-size: 14px;
   text-align: center;
+  line-height: 1.2;
   display: inline-block;
   color: black;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
@@ -309,6 +310,7 @@ footer {
   padding: 6px;
   font-size: 1em;
   text-align: center;
+  line-height: 1.2;
   text-transform: none;
   border: 1px solid #6E9492;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
@@ -401,10 +403,10 @@ img.logo {
 }
 
 .buttonsbarwrapper {
-  display: inline-block;
+  display: block;
   padding: 2px 8px 2px 8px;
   background-color: rgba(174, 170, 219, 0.2);   /*dark blue purp bckgrnd #AEAADB*/
-  align-items: center;
+  align-items: left;
   vertical-align: middle;
   text-align: center;
   text-transform: none;
