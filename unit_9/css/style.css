@@ -164,6 +164,13 @@ p {
   padding-left: 20px;
   line-height: 1.0;
 }
+/*equivalent to a shim*/
+.pcenter2 {
+  float: right;
+  padding-left: 20px;
+  line-height: 1.0;
+  text-align: center;
+}
 
 .pfootnote {
   color: #404040;
