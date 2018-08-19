@@ -230,7 +230,7 @@ ul {
 
 ul.n {
   list-style-type: none;
-  display:inline-block;
+  display: inline-block;
   padding: 10px 5px 10px 5px;
   text-transform: none;
   text-decoration: none;
@@ -310,7 +310,7 @@ footer {
   font-size: 1em;
   text-align: center;
   text-transform: none;
-  border: 1px solid #AEAADB;
+  border: 1px solid #6E9492;
   background-color: rgba(110, 148, 146, 0.2);   /*dark sage bckgrnd #6E9492*/
   color: black;
   display: inline-block;
@@ -329,7 +329,7 @@ img.logo {
   top: 1px;
   max-width: 65%;
   z-index: 1000;
-  padding: 50px 10px 50px 10px;
+  padding: 50px 5px 50px 5px;
 }
 
 .row::after {
@@ -372,7 +372,6 @@ img.logo {
   display: inline-block;
   float: right;
   padding: 0px 0px 5px 2px;
-  max-width: 150px;
 }
 
 .nav {
@@ -385,7 +384,7 @@ img.logo {
   max-height: auto;
 }
 
- /* Button ontainer holding button image and text */
+ /* Button container holding button image and text */
 .buttonimagecontainer {
   position: relative;
   text-align: center;
