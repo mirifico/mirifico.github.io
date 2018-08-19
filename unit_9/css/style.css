@@ -45,7 +45,7 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-	font-size: 18px;
+	font-size: 16px;
 	font-kerning: normal;
 	white-space: normal;
   text-transform: none;
@@ -131,7 +131,7 @@ p {
 .p2 {
   color: white; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 10px 5px;
@@ -141,7 +141,7 @@ p {
 .p3 {
   color: black; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1.1em;
   text-indent: 10px;           /*--first line para indent - orig 30px*/
   white-space: normal;
 }
@@ -149,7 +149,7 @@ p {
 .p4 {                          /*--first line para block*/
   color: black; 
   line-height: 1.2;
-  font-size: 1.2em;
+  font-size: 1.1em;
   white-space: normal;
 }
 
@@ -200,7 +200,7 @@ span {
   line-height: 1.1;
   white-space: normal;
   border: 1px solid black;
-  border-spacing: 4px;
+  border-spacing: 6px;
   padding: 8px;
 }
 
