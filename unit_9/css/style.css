@@ -398,7 +398,7 @@ img.logo {
   align-items: center;
   text-align: center;
   text-transform: none;
-  min-height: 120px;
+  min-height: 140px;
 }
 
  /* Button container holding button image and text */
@@ -407,7 +407,7 @@ img.logo {
   text-align: center;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   padding: 4px 8px 4px 8px;
-  min-height: 110px;
+  min-height: 120px;
 }
 
 .top-right-aligncenter2 {
