@@ -422,6 +422,7 @@ img.logo {
     text-transform: none;
     padding: 5px 4px 5px 4px;
     width: 100%;
+    background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
 }
 
 .buttonsbarwrapper {
