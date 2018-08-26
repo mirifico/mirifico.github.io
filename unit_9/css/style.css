@@ -15,7 +15,7 @@
 /* top right text */
 [class*="top-right-"] {
     position: absolute;
-    background-color: rgba(173,222,181,0.4);    /*--pale sage  #ADDEB5*/ 
+    background-color: rgba(173,222,181,0.6);    /*--pale sage  #ADDEB5*/ 
     text-transform: none;
     padding: 5px 15px 10px 15px;
     width: 320px;
@@ -262,7 +262,7 @@ li.n {
   font-size: 1em;
   text-transform: none;
   text-decoration: none;
-  text-align: center;
+  text-align: left;
 }
 
 .nav li:hover {
@@ -416,7 +416,6 @@ img.logo {
 .top-right-aligncenter2 {
     top: 2%;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0);    /*--no colour*/ 
     text-transform: none;
     padding: 5px 4px 5px 4px;
     width: 100%;
@@ -425,7 +424,7 @@ img.logo {
 .buttonsbarwrapper {
   display: block;
   padding: 2px 4px 2px 4px;
-  background-color: rgba(174, 170, 219, 0.2);   /*dark blue purp bckgrnd #AEAADB*/
+  background-color: rgba(110, 148, 146, 0.6);   /*dark sage bckgrnd #6E9492*/
   align-items: left;
   vertical-align: middle;
   text-align: center;
