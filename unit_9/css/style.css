@@ -45,7 +45,7 @@ body {
 	background-color: #ADDEB5;    /*--pale sage  #ADDEB5*/ 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-	font-size: 16px;
+	font-size: 18px;
 	font-kerning: normal;
 	white-space: normal;
   text-transform: none;
@@ -110,8 +110,8 @@ p {
 	color: black;
   font-family: 'Cormorant Garamond', serif;
   font-weight: 400;
-  font-size: 16px;
-	line-height: 1.2;
+  font-size: 18px;
+	line-height: 1.4;
 	white-space: normal;
   text-transform: none;
   padding-left: 8px;
@@ -130,8 +130,8 @@ p {
 
 .p2 {
   color: white; 
-  line-height: 1.2;
-  font-size: 1.1em;
+  line-height: 1.4;
+  font-size: 1.2em;
   font-style: italic;           /*--italic text*/ 
   white-space: normal;
   padding: 10px 5px;
@@ -140,35 +140,35 @@ p {
 
 .p3 {
   color: black; 
-  line-height: 1.2;
-  font-size: 1.1em;
+  line-height: 1.4;
+  font-size: 1.2em;
   text-indent: 10px;           /*--first line para indent - orig 30px*/
   white-space: normal;
 }
 
 .p4 {                          /*--first line para block*/
   color: black; 
-  line-height: 1.2;
-  font-size: 1.1em;
+  line-height: 1.4;
+  font-size: 1.2em;
   white-space: normal;
 }
 
 .pright {
   float: right;
   padding-right: 20px;
-  line-height: 1.0;
+  line-height: 1.2;
 }
 
 .pleft {
   float: left;
   padding-left: 20px;
-  line-height: 1.0;
+  line-height: 1.2;
 }
 /*equivalent to a shim*/
 .pcenter2 {
   float: left;
   padding-left: 20px;
-  line-height: 1.0;
+  line-height: 1.2;
   text-align: center;
   color: #ADDEB5;
 }
@@ -183,9 +183,9 @@ span {
   color: black;
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
-  font-size: 1em;
+  font-size: 1.2;
   font-kerning: normal;
-  line-height: 1.2;
+  line-height: 1.4;
   white-space: normal;
 }
 
@@ -193,9 +193,9 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-kerning: normal;
-  line-height: 1.2;
+  line-height: 1.4;
   white-space: normal;
   border-spacing: 6px;
   padding: 8px;
@@ -205,10 +205,10 @@ span {
   color: black; 
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-kerning: normal;
   font-style: italic;
-  line-height: 1.1;
+  line-height: 1.4;
   white-space: normal;
   border: 1px solid black;
   border-spacing: 6px;
@@ -219,7 +219,7 @@ ul, li {
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
   white-space: normal;
   text-transform: none;
   text-decoration: none;
@@ -270,7 +270,7 @@ a {
   text-transform: none;
   text-decoration: none;
   padding: 2px 4px 2px 4px;
-  font-size: 14px;
+  font-size: 15px;
   text-align: center;
   line-height: 1.2;
   display: inline-block;
@@ -376,7 +376,7 @@ img.logo {
 .header {
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
   color: #ffffff;                             /*black*/
-  line-height: 1.2;
+  line-height: 1.4;
   padding: 20px 10px 50px 10px;
 }
 
@@ -454,10 +454,10 @@ img.logo {
       width: 100%;
     }
     body {
-      font-size: 16px;
+      font-size: 18px;
     }
     div, p {
-      font-size: 1em;
+      font-size: 1.2em;
     }
     .top-right-lower {
       bottom: 15%;
@@ -472,7 +472,7 @@ img.logo {
       width: 100%;
     }
     body {
-      font-size: 16px;
+      font-size: 18px;
     }
     div, p {
       font-size: 1em;
@@ -489,7 +489,7 @@ img.logo {
       width: 100%;
     }
     body {
-      font-size: 15px;
+      font-size: 17px;
     }
     div, p {
       font-size: 1em;
@@ -506,7 +506,7 @@ img.logo {
       width: 100%;
     }
     body {
-      font-size: 14px;
+      font-size: 16px;
     }
     div, p {
       font-size: 1em;
@@ -533,7 +533,7 @@ img.logo {
       top: 1%;
       right: 0px;
       text-align: left;
-      font-size: 0.9em;
+      font-size: 1em;
     }
     .pright {
       float: none;
