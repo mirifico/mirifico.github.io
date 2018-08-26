@@ -223,7 +223,7 @@ ul, li {
   white-space: normal;
   text-transform: none;
   text-decoration: none;
-  text-align: center;
+  text-align: left;
   white-space: normal;
 }
 
@@ -231,6 +231,7 @@ li.a {
     display: block;
     color: white;
     text-align: center;
+    line-height: 1.2;
     padding: 14px 16px;
     text-transform: none;
     text-decoration: none;
@@ -247,7 +248,8 @@ ul.n {
   padding: 8px 4px 8px 4px;
   text-transform: none;
   text-decoration: none;
-  text-align: center;
+  text-align: left;
+  line-height: 1.2;
 }
 
 li.n {
@@ -260,6 +262,7 @@ li.n {
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 1em;
+  line-height: 1.2;
   text-transform: none;
   text-decoration: none;
   text-align: left;
