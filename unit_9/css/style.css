@@ -457,7 +457,7 @@ img.logo {
       font-size: 17px;
     }
     div, p {
-      font-size: 1.2em;
+      font-size: 1em;
     }
     .top-right-lower {
       bottom: 15%;
@@ -561,8 +561,8 @@ img.logo {
     .header {
       background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
       color: #ffffff;                             /*black*/
-      line-height: 0.9;
-      padding: 20px 10px 50px 10px;
+      line-height: 1;
+      padding: 20px 5px 50px 5px;
     }
     h1, h2, h3, h4, h5 {
       text-align: center;
