@@ -498,7 +498,7 @@ img.logo {
       bottom: 6%;
       width: 100%;
     }
-    .mobile-container {
+/*    .mobile-container {
       max-width: 480px;
       margin: auto;
       background-color: #555;
@@ -535,7 +535,7 @@ img.logo {
     .active {
       background-color: #4CAF50;
       color: white;
-    }
+    }*/
 }
 
 @media only screen and (max-width: 400px) {
@@ -582,7 +582,7 @@ img.logo {
       bottom: 5%;
       width: 100%;
     }
-    .mobile-container {
+/*    .mobile-container {
       max-width: 480px;
       margin: auto;
       background-color: #555;
@@ -619,5 +619,5 @@ img.logo {
     .active {
       background-color: #4CAF50;
       color: white;
-    }
+    }*/
 }
