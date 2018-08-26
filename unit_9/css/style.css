@@ -223,6 +223,7 @@ ul, li {
   white-space: normal;
   text-transform: none;
   text-decoration: none;
+  text-align: center;
   white-space: normal;
 }
 
@@ -246,6 +247,7 @@ ul.n {
   padding: 8px 4px 8px 4px;
   text-transform: none;
   text-decoration: none;
+  text-align: center;
 }
 
 li.n {
@@ -260,6 +262,7 @@ li.n {
   font-size: 1em;
   text-transform: none;
   text-decoration: none;
+  text-align: center;
 }
 
 .nav li:hover {
