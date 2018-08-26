@@ -406,8 +406,8 @@ img.logo {
   position: relative;
   text-align: center;
   background-color: rgba(110, 148, 146, 1);   /*dark sage bckgrnd #6E9492*/
-  padding: 4px 8px 4px 8px;
-  min-height: 120px;
+  padding: 2px 8px 2px 8px;
+  min-height: 110px;
 }
 
 .top-right-aligncenter2 {
@@ -421,7 +421,7 @@ img.logo {
 
 .buttonsbarwrapper {
   display: block;
-  padding: 4px 8px 4px 8px;
+  padding: 2px 8px 2px 8px;
   background-color: rgba(174, 170, 219, 0.2);   /*dark blue purp bckgrnd #AEAADB*/
   align-items: left;
   vertical-align: middle;
