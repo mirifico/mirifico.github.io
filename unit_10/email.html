@@ -2,12 +2,15 @@
 <html lang="en">
 <head>
 	<style type="text/css">
-        body {margin: 0; padding: 0; min-width: 100%!important;}
+        body {margin: 0; padding: 0; min-width: 100%!important; box-sizing: border-box;}
         .content {width: 100%; max-width: 600px;} 
-        @media only screen and (max-width: 414px) {
+        @media only screen and (max-device-width: 414px) {
   		.deviceWidth {width:280px!important; padding:0;}	
   		.center {text-align: center!important;}	 
-   		} 
+   		}
+   		#id.A, .B, .C, .D, .E, .F {
+				width: 100% !important;
+			}
     </style>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,27 +20,27 @@
 <table>
 	<body class="clearfix" style="background-color: #ADDEB5;margin: 0;padding: 0;min-width: 100%!important;">
 		<table align="center" width="600px" cellspacing="0" style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.2; background-color:#ADDEB5;" border="0">
-			<tr style="background-color:#6E9492;">
+			<tr id="A" style="background-color:#6E9492;">
 				<td colspan="1" width="49%"><img src="images/CLFull_Horiz-white-txt-nobckgrnd.svg" alt="CLFull_Horiz-white-txt-nobckgrnd.svg" style="max-width: 200px">
 				</td>
 				<td colspan="1" width="2%" style="color:#6E9492;">_</td>
 				<th colspan="1" width="49%" align="left" style="font-size: 1.1em; color:#ffffff;">Caseworker Resources <br> Special Offer September 2018 </th>
 			</tr>
-			<tr style="background-color:#6E9492;">
+			<tr id="B" style="background-color:#6E9492;">
 				<td colspan="3" align="center"><img src="images/015-RedCrossCERES-2015-12-15-800x533.jpg" alt="015-RedCrossCERES-2015-12-15-800x533.jpg" style="max-width: 100%">
 				</td>
 			</tr>
 			<tr>
-				<td colspan="1" width="49%" align="center"><b>EMERGENCY RELIEF <br>FIVE DAY INTENSIVE </b><br><img src="images/01_ER_heroshot.jpg" alt="01_ER_heroshot.jpg" style="max-width: 96%"></td>
+				<td id="C" colspan="1" width="49%" align="center"><b>EMERGENCY RELIEF <br>FIVE DAY INTENSIVE </b><br><img src="images/01_ER_heroshot.jpg" alt="01_ER_heroshot.jpg" style="max-width: 96%"></td>
 				<td colspan="1" width="2%" style="color:#ADDEB5;">__</td>
-				<td colspan="1" width="49%" font-size="16px"> <br>We've organised an detailed Emergency Relief training workshop to be held 10-14&nbsp;September&nbsp;2018 at the Mt&nbsp;Macedon Winery and mountain hideaway. We've customised a beneficial activities program, to run alongside our main topic training over the five days.<br><br> RSVP - Register your booking <br>by 5 September 2018.<br><br></td>
+				<td id="D" colspan="1" width="49%" font-size="16px"> <br>We've organised an detailed Emergency Relief training workshop to be held 10-14&nbsp;September&nbsp;2018 at the Mt&nbsp;Macedon Winery and mountain hideaway. We've customised a beneficial activities program, to run alongside our main topic training over the five days.<br><br> RSVP - Register your booking <br>by 5 September 2018.<br><br></td>
 			</tr>
 			<tr style="background-color:#6E9492; font-size: 1.1em; color:#ffffff;">
-				<td colspan="1" width="49%" align="center" font-size="18px"> <br>Register now <br>for your team's attendance.<br>
+				<td id="E" colspan="1" width="49%" align="center" font-size="18px"> <br>Register now <br>for your team's attendance.<br>
 				<a href="mailto:lmarshall@redcross.org.au?subject=Workshop%20Registration"><b>Team Registration</b></a>. <br><br>
 				</td>
 				<td colspan="1" width="2%" style="color:#6E9492;">_</td>
-				<td colspan="1" width="49%" align="center" font-size="18px"> <br>Register now <br>for your attendance.<br>
+				<td id="F" colspan="1" width="49%" align="center" font-size="18px"> <br>Register now <br>for your attendance.<br>
 				<a href="mailto:lmarshall@redcross.org.au?subject=Workshop%20Registration%20-%20Individual"><b>Individual Registration</b></a>.
 				<br><br></td>
 			</tr>
